@@ -1,0 +1,17 @@
+# Raw and derived data are never committed. Provenance lives in reference/sources.csv,
+# and every artifact under data/ is reproducible from `imsa-caution` CLI commands.
+data/
+*.parquet
+!reference/*.csv
+
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+notebooks/**/*.ipynb_checkpoints
+.DS_Store
+dist/
+*.egg-info/
+.venv/

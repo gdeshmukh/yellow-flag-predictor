@@ -1,0 +1,6 @@
+session_id,start_s,end_s,cause_car,cause_kind,source
+daytona-2020-race-1,27940,28930,38,stopped_car,legacy-annotation
+daytona-2020-race-1,36360,37349,19,stopped_car,legacy-annotation
+daytona-2020-race-1,65440,66615,74,stopped_car,legacy-annotation
+daytona-2020-race-1,68460,69648,19,stopped_car,legacy-annotation
+daytona-2020-race-1,70540,71053,47,stopped_car,legacy-annotation
