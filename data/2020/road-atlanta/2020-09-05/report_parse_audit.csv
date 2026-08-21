@@ -1,0 +1,19 @@
+year,event_code,event_name,track_slug,race_date,session_directory,table,check,status,value,detail
+2020,09_Road Atlanta,Road Atlanta,road-atlanta,2020-09-05,202009051135_Race,results,rows,pass,28,
+2020,09_Road Atlanta,Road Atlanta,road-atlanta,2020-09-05,202009051135_Race,results,positions,pass,28,"first=[1, 2, 3] last=[26, 27, 28]"
+2020,09_Road Atlanta,Road Atlanta,road-atlanta,2020-09-05,202009051135_Race,results,car_numbers,pass,28,not in entries: []
+2020,09_Road Atlanta,Road Atlanta,road-atlanta,2020-09-05,202009051135_Race,results,best_lap_time_card_match,pass,28/28,
+2020,09_Road Atlanta,Road Atlanta,road-atlanta,2020-09-05,202009051135_Race,results,classified_laps_time_card_match,warn,26/28,official penalties and incomplete time cards can differ
+2020,09_Road Atlanta,Road Atlanta,road-atlanta,2020-09-05,202009051135_Race,fastest_laps_by_driver,rows,pass,74,
+2020,09_Road Atlanta,Road Atlanta,road-atlanta,2020-09-05,202009051135_Race,fastest_laps_by_driver,positions,pass,74,"first=[1, 2, 3] last=[72, 73, 74]"
+2020,09_Road Atlanta,Road Atlanta,road-atlanta,2020-09-05,202009051135_Race,fastest_laps_by_driver,car_numbers,pass,28,not in entries: []
+2020,09_Road Atlanta,Road Atlanta,road-atlanta,2020-09-05,202009051135_Race,fastest_laps_by_driver,time_card_lap_match,pass,74/74,
+2020,09_Road Atlanta,Road Atlanta,road-atlanta,2020-09-05,202009051135_Race,fastest_laps_by_driver,time_card_driver_match,pass,74/74,
+2020,09_Road Atlanta,Road Atlanta,road-atlanta,2020-09-05,202009051135_Race,drive_time,rows,pass,442,
+2020,09_Road Atlanta,Road Atlanta,road-atlanta,2020-09-05,202009051135_Race,drive_time,car_numbers,pass,28,not in entries: []
+2020,09_Road Atlanta,Road Atlanta,road-atlanta,2020-09-05,202009051135_Race,drive_time,segment_continuity,pass,414/414,
+2020,09_Road Atlanta,Road Atlanta,road-atlanta,2020-09-05,202009051135_Race,pit_stops,rows,pass,206,
+2020,09_Road Atlanta,Road Atlanta,road-atlanta,2020-09-05,202009051135_Race,pit_stops,car_numbers,pass,28,not in entries: []
+2020,09_Road Atlanta,Road Atlanta,road-atlanta,2020-09-05,202009051135_Race,pit_stops,clock_duration_match,pass,206/206,
+2020,09_Road Atlanta,Road Atlanta,road-atlanta,2020-09-05,202009051135_Race,pit_stops,cumulative_duration_match,pass,206/206,
+2020,09_Road Atlanta,Road Atlanta,road-atlanta,2020-09-05,202009051135_Race,flags_analysis,source,not_available,0,report not published for this race

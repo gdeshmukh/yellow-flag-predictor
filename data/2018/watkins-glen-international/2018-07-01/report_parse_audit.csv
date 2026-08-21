@@ -1,0 +1,19 @@
+year,event_code,event_name,track_slug,race_date,session_directory,table,check,status,value,detail
+2018,12_Watkins Glen International,Watkins Glen International,watkins-glen-international,2018-07-01,201807010945_Race,results,rows,pass,42,
+2018,12_Watkins Glen International,Watkins Glen International,watkins-glen-international,2018-07-01,201807010945_Race,results,positions,pass,42,"first=[1, 2, 3] last=[40, 41, 42]"
+2018,12_Watkins Glen International,Watkins Glen International,watkins-glen-international,2018-07-01,201807010945_Race,results,car_numbers,pass,42,not in entries: []
+2018,12_Watkins Glen International,Watkins Glen International,watkins-glen-international,2018-07-01,201807010945_Race,results,best_lap_time_card_match,pass,42/42,
+2018,12_Watkins Glen International,Watkins Glen International,watkins-glen-international,2018-07-01,201807010945_Race,results,classified_laps_time_card_match,pass,42/42,official penalties and incomplete time cards can differ
+2018,12_Watkins Glen International,Watkins Glen International,watkins-glen-international,2018-07-01,201807010945_Race,fastest_laps_by_driver,rows,pass,109,
+2018,12_Watkins Glen International,Watkins Glen International,watkins-glen-international,2018-07-01,201807010945_Race,fastest_laps_by_driver,positions,pass,109,"first=[1, 2, 3] last=[107, 108, 109]"
+2018,12_Watkins Glen International,Watkins Glen International,watkins-glen-international,2018-07-01,201807010945_Race,fastest_laps_by_driver,car_numbers,pass,42,not in entries: []
+2018,12_Watkins Glen International,Watkins Glen International,watkins-glen-international,2018-07-01,201807010945_Race,fastest_laps_by_driver,time_card_lap_match,pass,105/105,
+2018,12_Watkins Glen International,Watkins Glen International,watkins-glen-international,2018-07-01,201807010945_Race,fastest_laps_by_driver,time_card_driver_match,pass,105/105,
+2018,12_Watkins Glen International,Watkins Glen International,watkins-glen-international,2018-07-01,201807010945_Race,drive_time,rows,pass,608,
+2018,12_Watkins Glen International,Watkins Glen International,watkins-glen-international,2018-07-01,201807010945_Race,drive_time,car_numbers,pass,42,not in entries: []
+2018,12_Watkins Glen International,Watkins Glen International,watkins-glen-international,2018-07-01,201807010945_Race,drive_time,segment_continuity,pass,566/566,
+2018,12_Watkins Glen International,Watkins Glen International,watkins-glen-international,2018-07-01,201807010945_Race,pit_stops,rows,pass,278,
+2018,12_Watkins Glen International,Watkins Glen International,watkins-glen-international,2018-07-01,201807010945_Race,pit_stops,car_numbers,pass,42,not in entries: []
+2018,12_Watkins Glen International,Watkins Glen International,watkins-glen-international,2018-07-01,201807010945_Race,pit_stops,clock_duration_match,pass,278/278,
+2018,12_Watkins Glen International,Watkins Glen International,watkins-glen-international,2018-07-01,201807010945_Race,pit_stops,cumulative_duration_match,pass,278/278,
+2018,12_Watkins Glen International,Watkins Glen International,watkins-glen-international,2018-07-01,201807010945_Race,flags_analysis,source,not_available,0,report not published for this race

@@ -1,0 +1,19 @@
+year,event_code,event_name,track_slug,race_date,session_directory,table,check,status,value,detail
+2021,14_Lime Rock Park,Lime Rock Park,lime-rock-park,2021-07-17,202107171510_Race,results,rows,pass,16,
+2021,14_Lime Rock Park,Lime Rock Park,lime-rock-park,2021-07-17,202107171510_Race,results,positions,pass,16,"first=[1, 2, 3] last=[14, 15, 16]"
+2021,14_Lime Rock Park,Lime Rock Park,lime-rock-park,2021-07-17,202107171510_Race,results,car_numbers,pass,16,not in entries: []
+2021,14_Lime Rock Park,Lime Rock Park,lime-rock-park,2021-07-17,202107171510_Race,results,best_lap_time_card_match,pass,16/16,
+2021,14_Lime Rock Park,Lime Rock Park,lime-rock-park,2021-07-17,202107171510_Race,results,classified_laps_time_card_match,warn,15/16,official penalties and incomplete time cards can differ
+2021,14_Lime Rock Park,Lime Rock Park,lime-rock-park,2021-07-17,202107171510_Race,fastest_laps_by_driver,rows,pass,32,
+2021,14_Lime Rock Park,Lime Rock Park,lime-rock-park,2021-07-17,202107171510_Race,fastest_laps_by_driver,positions,pass,32,"first=[1, 2, 3] last=[30, 31, 32]"
+2021,14_Lime Rock Park,Lime Rock Park,lime-rock-park,2021-07-17,202107171510_Race,fastest_laps_by_driver,car_numbers,pass,16,not in entries: []
+2021,14_Lime Rock Park,Lime Rock Park,lime-rock-park,2021-07-17,202107171510_Race,fastest_laps_by_driver,time_card_lap_match,pass,30/30,
+2021,14_Lime Rock Park,Lime Rock Park,lime-rock-park,2021-07-17,202107171510_Race,fastest_laps_by_driver,time_card_driver_match,pass,30/30,
+2021,14_Lime Rock Park,Lime Rock Park,lime-rock-park,2021-07-17,202107171510_Race,drive_time,rows,pass,56,
+2021,14_Lime Rock Park,Lime Rock Park,lime-rock-park,2021-07-17,202107171510_Race,drive_time,car_numbers,pass,16,not in entries: []
+2021,14_Lime Rock Park,Lime Rock Park,lime-rock-park,2021-07-17,202107171510_Race,drive_time,segment_continuity,pass,40/40,
+2021,14_Lime Rock Park,Lime Rock Park,lime-rock-park,2021-07-17,202107171510_Race,pit_stops,rows,pass,21,
+2021,14_Lime Rock Park,Lime Rock Park,lime-rock-park,2021-07-17,202107171510_Race,pit_stops,car_numbers,pass,16,not in entries: []
+2021,14_Lime Rock Park,Lime Rock Park,lime-rock-park,2021-07-17,202107171510_Race,pit_stops,clock_duration_match,pass,21/21,
+2021,14_Lime Rock Park,Lime Rock Park,lime-rock-park,2021-07-17,202107171510_Race,pit_stops,cumulative_duration_match,pass,21/21,
+2021,14_Lime Rock Park,Lime Rock Park,lime-rock-park,2021-07-17,202107171510_Race,flags_analysis,source,not_available,0,report not published for this race

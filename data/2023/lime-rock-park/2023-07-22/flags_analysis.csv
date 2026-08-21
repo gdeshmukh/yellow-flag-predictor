@@ -1,0 +1,7 @@
+year,event_code,event_name,track_slug,race_date,session_directory,sequence,flag,clock_time,session_elapsed,session_elapsed_ms,flag_time,flag_time_ms,cumulative_flag_time,cumulative_flag_time_ms,lap,source_report,source_page
+2023,14_Lime Rock Park,Lime Rock Park,lime-rock-park,2023-07-22,202307221210_Race,1,GREEN FLAG,12:10:36.712,-,,37:19.974,2239974,37:19.974,2239974,1,25_FlagsAnalysis_Race.PDF,1
+2023,14_Lime Rock Park,Lime Rock Park,lime-rock-park,2023-07-22,202307221210_Race,2,FULL COURSE YELLOW,12:47:56.686,37:19.974,2239974,11:23.660,683660,11:23.660,683660,43,25_FlagsAnalysis_Race.PDF,1
+2023,14_Lime Rock Park,Lime Rock Park,lime-rock-park,2023-07-22,202307221210_Race,3,GREEN FLAG,12:59:20.346,48:43.634,2923634,47:35.228,2855228,1:24:55.202,5095202,50,25_FlagsAnalysis_Race.PDF,1
+2023,14_Lime Rock Park,Lime Rock Park,lime-rock-park,2023-07-22,202307221210_Race,4,FULL COURSE YELLOW,13:46:55.574,1:36:18.862,5778862,15:30.752,930752,26:54.412,1614412,104,25_FlagsAnalysis_Race.PDF,1
+2023,14_Lime Rock Park,Lime Rock Park,lime-rock-park,2023-07-22,202307221210_Race,5,GREEN FLAG,14:02:26.326,1:51:49.614,6709614,48:35.756,2915756,2:13:30.958,8010958,113,25_FlagsAnalysis_Race.PDF,1
+2023,14_Lime Rock Park,Lime Rock Park,lime-rock-park,2023-07-22,202307221210_Race,6,CHEQUERED FLAG,14:51:02.083,2:40:25.370,9625370,-,,-,,168,25_FlagsAnalysis_Race.PDF,1

@@ -1,0 +1,21 @@
+year,event_code,event_name,track_slug,race_date,session_directory,table,check,status,value,detail
+2023,17_Road America,Road America,road-america,2023-08-06,202308061010_Race,results,rows,pass,45,
+2023,17_Road America,Road America,road-america,2023-08-06,202308061010_Race,results,positions,pass,45,"first=[1, 2, 3] last=[43, 44, 45]"
+2023,17_Road America,Road America,road-america,2023-08-06,202308061010_Race,results,car_numbers,pass,45,not in entries: []
+2023,17_Road America,Road America,road-america,2023-08-06,202308061010_Race,results,best_lap_time_card_match,pass,45/45,
+2023,17_Road America,Road America,road-america,2023-08-06,202308061010_Race,results,classified_laps_time_card_match,pass,45/45,official penalties and incomplete time cards can differ
+2023,17_Road America,Road America,road-america,2023-08-06,202308061010_Race,fastest_laps_by_driver,rows,pass,90,
+2023,17_Road America,Road America,road-america,2023-08-06,202308061010_Race,fastest_laps_by_driver,positions,pass,90,"first=[1, 2, 3] last=[88, 89, 90]"
+2023,17_Road America,Road America,road-america,2023-08-06,202308061010_Race,fastest_laps_by_driver,car_numbers,pass,45,not in entries: []
+2023,17_Road America,Road America,road-america,2023-08-06,202308061010_Race,fastest_laps_by_driver,time_card_lap_match,pass,89/89,
+2023,17_Road America,Road America,road-america,2023-08-06,202308061010_Race,fastest_laps_by_driver,time_card_driver_match,pass,89/89,
+2023,17_Road America,Road America,road-america,2023-08-06,202308061010_Race,drive_time,rows,pass,279,
+2023,17_Road America,Road America,road-america,2023-08-06,202308061010_Race,drive_time,car_numbers,pass,45,not in entries: []
+2023,17_Road America,Road America,road-america,2023-08-06,202308061010_Race,drive_time,segment_continuity,pass,234/234,
+2023,17_Road America,Road America,road-america,2023-08-06,202308061010_Race,pit_stops,rows,pass,116,
+2023,17_Road America,Road America,road-america,2023-08-06,202308061010_Race,pit_stops,car_numbers,pass,44,not in entries: []
+2023,17_Road America,Road America,road-america,2023-08-06,202308061010_Race,pit_stops,clock_duration_match,pass,116/116,
+2023,17_Road America,Road America,road-america,2023-08-06,202308061010_Race,pit_stops,cumulative_duration_match,pass,116/116,
+2023,17_Road America,Road America,road-america,2023-08-06,202308061010_Race,flags_analysis,rows,pass,6,
+2023,17_Road America,Road America,road-america,2023-08-06,202308061010_Race,flags_analysis,session_elapsed_clock_match,pass,6/6,
+2023,17_Road America,Road America,road-america,2023-08-06,202308061010_Race,flags_analysis,flag_transition_duration_match,pass,5/5,

@@ -1,0 +1,21 @@
+year,event_code,event_name,track_slug,race_date,session_directory,table,check,status,value,detail
+2024,17_Tire Rack.com Battle On The Bricks,Tire Rack.com Battle On The Bricks,tire-rack-com-battle-on-the-bricks,2024-09-22,202409221230_Race,results,rows,pass,56,
+2024,17_Tire Rack.com Battle On The Bricks,Tire Rack.com Battle On The Bricks,tire-rack-com-battle-on-the-bricks,2024-09-22,202409221230_Race,results,positions,pass,56,"first=[1, 2, 3] last=[54, 55, 56]"
+2024,17_Tire Rack.com Battle On The Bricks,Tire Rack.com Battle On The Bricks,tire-rack-com-battle-on-the-bricks,2024-09-22,202409221230_Race,results,car_numbers,pass,56,not in entries: []
+2024,17_Tire Rack.com Battle On The Bricks,Tire Rack.com Battle On The Bricks,tire-rack-com-battle-on-the-bricks,2024-09-22,202409221230_Race,results,best_lap_time_card_match,pass,56/56,
+2024,17_Tire Rack.com Battle On The Bricks,Tire Rack.com Battle On The Bricks,tire-rack-com-battle-on-the-bricks,2024-09-22,202409221230_Race,results,classified_laps_time_card_match,pass,56/56,official penalties and incomplete time cards can differ
+2024,17_Tire Rack.com Battle On The Bricks,Tire Rack.com Battle On The Bricks,tire-rack-com-battle-on-the-bricks,2024-09-22,202409221230_Race,fastest_laps_by_driver,rows,pass,150,
+2024,17_Tire Rack.com Battle On The Bricks,Tire Rack.com Battle On The Bricks,tire-rack-com-battle-on-the-bricks,2024-09-22,202409221230_Race,fastest_laps_by_driver,positions,pass,150,"first=[1, 2, 3] last=[148, 149, 150]"
+2024,17_Tire Rack.com Battle On The Bricks,Tire Rack.com Battle On The Bricks,tire-rack-com-battle-on-the-bricks,2024-09-22,202409221230_Race,fastest_laps_by_driver,car_numbers,pass,56,not in entries: []
+2024,17_Tire Rack.com Battle On The Bricks,Tire Rack.com Battle On The Bricks,tire-rack-com-battle-on-the-bricks,2024-09-22,202409221230_Race,fastest_laps_by_driver,time_card_lap_match,pass,146/146,
+2024,17_Tire Rack.com Battle On The Bricks,Tire Rack.com Battle On The Bricks,tire-rack-com-battle-on-the-bricks,2024-09-22,202409221230_Race,fastest_laps_by_driver,time_card_driver_match,pass,146/146,
+2024,17_Tire Rack.com Battle On The Bricks,Tire Rack.com Battle On The Bricks,tire-rack-com-battle-on-the-bricks,2024-09-22,202409221230_Race,drive_time,rows,pass,875,
+2024,17_Tire Rack.com Battle On The Bricks,Tire Rack.com Battle On The Bricks,tire-rack-com-battle-on-the-bricks,2024-09-22,202409221230_Race,drive_time,car_numbers,pass,56,not in entries: []
+2024,17_Tire Rack.com Battle On The Bricks,Tire Rack.com Battle On The Bricks,tire-rack-com-battle-on-the-bricks,2024-09-22,202409221230_Race,drive_time,segment_continuity,pass,819/819,
+2024,17_Tire Rack.com Battle On The Bricks,Tire Rack.com Battle On The Bricks,tire-rack-com-battle-on-the-bricks,2024-09-22,202409221230_Race,pit_stops,rows,pass,405,
+2024,17_Tire Rack.com Battle On The Bricks,Tire Rack.com Battle On The Bricks,tire-rack-com-battle-on-the-bricks,2024-09-22,202409221230_Race,pit_stops,car_numbers,pass,55,not in entries: []
+2024,17_Tire Rack.com Battle On The Bricks,Tire Rack.com Battle On The Bricks,tire-rack-com-battle-on-the-bricks,2024-09-22,202409221230_Race,pit_stops,clock_duration_match,pass,405/405,
+2024,17_Tire Rack.com Battle On The Bricks,Tire Rack.com Battle On The Bricks,tire-rack-com-battle-on-the-bricks,2024-09-22,202409221230_Race,pit_stops,cumulative_duration_match,pass,405/405,
+2024,17_Tire Rack.com Battle On The Bricks,Tire Rack.com Battle On The Bricks,tire-rack-com-battle-on-the-bricks,2024-09-22,202409221230_Race,flags_analysis,rows,pass,14,
+2024,17_Tire Rack.com Battle On The Bricks,Tire Rack.com Battle On The Bricks,tire-rack-com-battle-on-the-bricks,2024-09-22,202409221230_Race,flags_analysis,session_elapsed_clock_match,pass,14/14,
+2024,17_Tire Rack.com Battle On The Bricks,Tire Rack.com Battle On The Bricks,tire-rack-com-battle-on-the-bricks,2024-09-22,202409221230_Race,flags_analysis,flag_transition_duration_match,pass,13/13,

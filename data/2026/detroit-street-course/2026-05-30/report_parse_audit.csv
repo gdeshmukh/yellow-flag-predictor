@@ -1,0 +1,21 @@
+year,event_code,event_name,track_slug,race_date,session_directory,table,check,status,value,detail
+2026,11_Detroit Street Course,Detroit Street Course,detroit-street-course,2026-05-30,202605301610_Race,results,rows,pass,21,
+2026,11_Detroit Street Course,Detroit Street Course,detroit-street-course,2026-05-30,202605301610_Race,results,positions,pass,21,"first=[1, 2, 3] last=[19, 20, 21]"
+2026,11_Detroit Street Course,Detroit Street Course,detroit-street-course,2026-05-30,202605301610_Race,results,car_numbers,pass,21,not in entries: []
+2026,11_Detroit Street Course,Detroit Street Course,detroit-street-course,2026-05-30,202605301610_Race,results,best_lap_time_card_match,pass,21/21,
+2026,11_Detroit Street Course,Detroit Street Course,detroit-street-course,2026-05-30,202605301610_Race,results,classified_laps_time_card_match,pass,21/21,official penalties and incomplete time cards can differ
+2026,11_Detroit Street Course,Detroit Street Course,detroit-street-course,2026-05-30,202605301610_Race,fastest_laps_by_driver,rows,pass,42,
+2026,11_Detroit Street Course,Detroit Street Course,detroit-street-course,2026-05-30,202605301610_Race,fastest_laps_by_driver,positions,pass,42,"first=[1, 2, 3] last=[40, 41, 42]"
+2026,11_Detroit Street Course,Detroit Street Course,detroit-street-course,2026-05-30,202605301610_Race,fastest_laps_by_driver,car_numbers,pass,21,not in entries: []
+2026,11_Detroit Street Course,Detroit Street Course,detroit-street-course,2026-05-30,202605301610_Race,fastest_laps_by_driver,time_card_lap_match,pass,42/42,
+2026,11_Detroit Street Course,Detroit Street Course,detroit-street-course,2026-05-30,202605301610_Race,fastest_laps_by_driver,time_card_driver_match,pass,42/42,
+2026,11_Detroit Street Course,Detroit Street Course,detroit-street-course,2026-05-30,202605301610_Race,drive_time,rows,pass,95,
+2026,11_Detroit Street Course,Detroit Street Course,detroit-street-course,2026-05-30,202605301610_Race,drive_time,car_numbers,pass,21,not in entries: []
+2026,11_Detroit Street Course,Detroit Street Course,detroit-street-course,2026-05-30,202605301610_Race,drive_time,segment_continuity,pass,74/74,
+2026,11_Detroit Street Course,Detroit Street Course,detroit-street-course,2026-05-30,202605301610_Race,pit_stops,rows,pass,39,
+2026,11_Detroit Street Course,Detroit Street Course,detroit-street-course,2026-05-30,202605301610_Race,pit_stops,car_numbers,pass,21,not in entries: []
+2026,11_Detroit Street Course,Detroit Street Course,detroit-street-course,2026-05-30,202605301610_Race,pit_stops,clock_duration_match,pass,39/39,
+2026,11_Detroit Street Course,Detroit Street Course,detroit-street-course,2026-05-30,202605301610_Race,pit_stops,cumulative_duration_match,pass,39/39,
+2026,11_Detroit Street Course,Detroit Street Course,detroit-street-course,2026-05-30,202605301610_Race,flags_analysis,rows,pass,7,
+2026,11_Detroit Street Course,Detroit Street Course,detroit-street-course,2026-05-30,202605301610_Race,flags_analysis,session_elapsed_clock_match,pass,7/7,
+2026,11_Detroit Street Course,Detroit Street Course,detroit-street-course,2026-05-30,202605301610_Race,flags_analysis,flag_transition_duration_match,pass,6/6,

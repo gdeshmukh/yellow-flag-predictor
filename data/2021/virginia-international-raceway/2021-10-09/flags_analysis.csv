@@ -1,0 +1,5 @@
+year,event_code,event_name,track_slug,race_date,session_directory,sequence,flag,clock_time,session_elapsed,session_elapsed_ms,flag_time,flag_time_ms,cumulative_flag_time,cumulative_flag_time_ms,lap,source_report,source_page
+2021,19_VIRginia International Raceway,VIRginia International Raceway,virginia-international-raceway,2021-10-09,202110091210_Race,1,GREEN FLAG,12:10:34.845,-,,1:12:55.743,4375743,1:12:55.743,4375743,1,25_FlagsAnalysis_Race.PDF,1
+2021,19_VIRginia International Raceway,VIRginia International Raceway,virginia-international-raceway,2021-10-09,202110091210_Race,2,FULL COURSE YELLOW,13:23:30.588,1:12:55.743,4375743,20:16.747,1216747,20:16.747,1216747,43,25_FlagsAnalysis_Race.PDF,1
+2021,19_VIRginia International Raceway,VIRginia International Raceway,virginia-international-raceway,2021-10-09,202110091210_Race,3,GREEN FLAG,13:43:47.335,1:33:12.490,5592490,1:07:32.545,4052545,2:20:28.288,8428288,48,25_FlagsAnalysis_Race.PDF,1
+2021,19_VIRginia International Raceway,VIRginia International Raceway,virginia-international-raceway,2021-10-09,202110091210_Race,4,CHEQUERED FLAG,14:51:19.881,2:40:45.035,9645035,-,,-,,87,25_FlagsAnalysis_Race.PDF,1

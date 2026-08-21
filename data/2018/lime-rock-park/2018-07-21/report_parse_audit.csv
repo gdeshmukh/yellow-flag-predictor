@@ -1,0 +1,19 @@
+year,event_code,event_name,track_slug,race_date,session_directory,table,check,status,value,detail
+2018,15_Lime Rock Park,Lime Rock Park,lime-rock-park,2018-07-21,201807211510_Race,results,rows,pass,18,
+2018,15_Lime Rock Park,Lime Rock Park,lime-rock-park,2018-07-21,201807211510_Race,results,positions,pass,18,"first=[1, 2, 3] last=[16, 17, 18]"
+2018,15_Lime Rock Park,Lime Rock Park,lime-rock-park,2018-07-21,201807211510_Race,results,car_numbers,warn,18,not in entries: ['96']
+2018,15_Lime Rock Park,Lime Rock Park,lime-rock-park,2018-07-21,201807211510_Race,results,best_lap_time_card_match,pass,16/16,
+2018,15_Lime Rock Park,Lime Rock Park,lime-rock-park,2018-07-21,201807211510_Race,results,classified_laps_time_card_match,pass,17/17,official penalties and incomplete time cards can differ
+2018,15_Lime Rock Park,Lime Rock Park,lime-rock-park,2018-07-21,201807211510_Race,fastest_laps_by_driver,rows,pass,36,
+2018,15_Lime Rock Park,Lime Rock Park,lime-rock-park,2018-07-21,201807211510_Race,fastest_laps_by_driver,positions,pass,36,"first=[1, 2, 3] last=[34, 35, 36]"
+2018,15_Lime Rock Park,Lime Rock Park,lime-rock-park,2018-07-21,201807211510_Race,fastest_laps_by_driver,car_numbers,warn,18,not in entries: ['96']
+2018,15_Lime Rock Park,Lime Rock Park,lime-rock-park,2018-07-21,201807211510_Race,fastest_laps_by_driver,time_card_lap_match,pass,32/32,
+2018,15_Lime Rock Park,Lime Rock Park,lime-rock-park,2018-07-21,201807211510_Race,fastest_laps_by_driver,time_card_driver_match,pass,32/32,
+2018,15_Lime Rock Park,Lime Rock Park,lime-rock-park,2018-07-21,201807211510_Race,drive_time,rows,pass,88,
+2018,15_Lime Rock Park,Lime Rock Park,lime-rock-park,2018-07-21,201807211510_Race,drive_time,car_numbers,warn,18,not in entries: ['96']
+2018,15_Lime Rock Park,Lime Rock Park,lime-rock-park,2018-07-21,201807211510_Race,drive_time,segment_continuity,pass,70/70,
+2018,15_Lime Rock Park,Lime Rock Park,lime-rock-park,2018-07-21,201807211510_Race,pit_stops,rows,pass,34,
+2018,15_Lime Rock Park,Lime Rock Park,lime-rock-park,2018-07-21,201807211510_Race,pit_stops,car_numbers,pass,16,not in entries: []
+2018,15_Lime Rock Park,Lime Rock Park,lime-rock-park,2018-07-21,201807211510_Race,pit_stops,clock_duration_match,pass,34/34,
+2018,15_Lime Rock Park,Lime Rock Park,lime-rock-park,2018-07-21,201807211510_Race,pit_stops,cumulative_duration_match,pass,34/34,
+2018,15_Lime Rock Park,Lime Rock Park,lime-rock-park,2018-07-21,201807211510_Race,flags_analysis,source,not_available,0,report not published for this race

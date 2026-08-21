@@ -1,0 +1,21 @@
+year,event_code,event_name,track_slug,race_date,session_directory,table,check,status,value,detail
+2023,18_VIRginia International Raceway,VIRginia International Raceway,virginia-international-raceway,2023-08-27,202308271410_Race,results,rows,pass,19,
+2023,18_VIRginia International Raceway,VIRginia International Raceway,virginia-international-raceway,2023-08-27,202308271410_Race,results,positions,pass,19,"first=[1, 2, 3] last=[17, 18, 19]"
+2023,18_VIRginia International Raceway,VIRginia International Raceway,virginia-international-raceway,2023-08-27,202308271410_Race,results,car_numbers,pass,19,not in entries: []
+2023,18_VIRginia International Raceway,VIRginia International Raceway,virginia-international-raceway,2023-08-27,202308271410_Race,results,best_lap_time_card_match,pass,19/19,
+2023,18_VIRginia International Raceway,VIRginia International Raceway,virginia-international-raceway,2023-08-27,202308271410_Race,results,classified_laps_time_card_match,pass,19/19,official penalties and incomplete time cards can differ
+2023,18_VIRginia International Raceway,VIRginia International Raceway,virginia-international-raceway,2023-08-27,202308271410_Race,fastest_laps_by_driver,rows,pass,38,
+2023,18_VIRginia International Raceway,VIRginia International Raceway,virginia-international-raceway,2023-08-27,202308271410_Race,fastest_laps_by_driver,positions,pass,38,"first=[1, 2, 3] last=[36, 37, 38]"
+2023,18_VIRginia International Raceway,VIRginia International Raceway,virginia-international-raceway,2023-08-27,202308271410_Race,fastest_laps_by_driver,car_numbers,pass,19,not in entries: []
+2023,18_VIRginia International Raceway,VIRginia International Raceway,virginia-international-raceway,2023-08-27,202308271410_Race,fastest_laps_by_driver,time_card_lap_match,pass,37/37,
+2023,18_VIRginia International Raceway,VIRginia International Raceway,virginia-international-raceway,2023-08-27,202308271410_Race,fastest_laps_by_driver,time_card_driver_match,pass,37/37,
+2023,18_VIRginia International Raceway,VIRginia International Raceway,virginia-international-raceway,2023-08-27,202308271410_Race,drive_time,rows,pass,111,
+2023,18_VIRginia International Raceway,VIRginia International Raceway,virginia-international-raceway,2023-08-27,202308271410_Race,drive_time,car_numbers,pass,19,not in entries: []
+2023,18_VIRginia International Raceway,VIRginia International Raceway,virginia-international-raceway,2023-08-27,202308271410_Race,drive_time,segment_continuity,pass,92/92,
+2023,18_VIRginia International Raceway,VIRginia International Raceway,virginia-international-raceway,2023-08-27,202308271410_Race,pit_stops,rows,pass,46,
+2023,18_VIRginia International Raceway,VIRginia International Raceway,virginia-international-raceway,2023-08-27,202308271410_Race,pit_stops,car_numbers,pass,18,not in entries: []
+2023,18_VIRginia International Raceway,VIRginia International Raceway,virginia-international-raceway,2023-08-27,202308271410_Race,pit_stops,clock_duration_match,pass,46/46,
+2023,18_VIRginia International Raceway,VIRginia International Raceway,virginia-international-raceway,2023-08-27,202308271410_Race,pit_stops,cumulative_duration_match,pass,46/46,
+2023,18_VIRginia International Raceway,VIRginia International Raceway,virginia-international-raceway,2023-08-27,202308271410_Race,flags_analysis,rows,pass,6,
+2023,18_VIRginia International Raceway,VIRginia International Raceway,virginia-international-raceway,2023-08-27,202308271410_Race,flags_analysis,session_elapsed_clock_match,pass,6/6,
+2023,18_VIRginia International Raceway,VIRginia International Raceway,virginia-international-raceway,2023-08-27,202308271410_Race,flags_analysis,flag_transition_duration_match,pass,5/5,

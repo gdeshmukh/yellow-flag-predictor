@@ -1,0 +1,12 @@
+year,event_code,event_name,track_slug,race_date,session_directory,table,check,status,value,detail
+2022,08_Mid-Ohio Sports Car Course,Mid-Ohio Sports Car Course,mid-ohio-sports-car-course,2022-05-15,202205151410_Race,time_cards,rows,pass,3524,
+2022,08_Mid-Ohio Sports Car Course,Mid-Ohio Sports Car Course,mid-ohio-sports-car-course,2022-05-15,202205151410_Race,time_cards,duplicate_car_lap_keys,pass,0,
+2022,08_Mid-Ohio Sports Car Course,Mid-Ohio Sports Car Course,mid-ohio-sports-car-course,2022-05-15,202205151410_Race,time_cards,rows_without_car_header,pass,0,
+2022,08_Mid-Ohio Sports Car Course,Mid-Ohio Sports Car Course,mid-ohio-sports-car-course,2022-05-15,202205151410_Race,time_cards,elapsed_delta_match_rate,pass,1.000000,3493/3493
+2022,08_Mid-Ohio Sports Car Course,Mid-Ohio Sports Car Course,mid-ohio-sports-car-course,2022-05-15,202205151410_Race,time_cards,lap_number_gaps,pass,0,
+2022,08_Mid-Ohio Sports Car Course,Mid-Ohio Sports Car Course,mid-ohio-sports-car-course,2022-05-15,202205151410_Race,analysis_by_lap,rows,pass,3524,
+2022,08_Mid-Ohio Sports Car Course,Mid-Ohio Sports Car Course,mid-ohio-sports-car-course,2022-05-15,202205151410_Race,analysis_by_lap,duplicate_car_lap_keys,pass,0,
+2022,08_Mid-Ohio Sports Car Course,Mid-Ohio Sports Car Course,mid-ohio-sports-car-course,2022-05-15,202205151410_Race,analysis_by_lap,unmatched_analysis_rows,pass,0,
+2022,08_Mid-Ohio Sports Car Course,Mid-Ohio Sports Car Course,mid-ohio-sports-car-course,2022-05-15,202205151410_Race,analysis_by_lap,rows_without_lap_header,pass,0,
+2022,08_Mid-Ohio Sports Car Course,Mid-Ohio Sports Car Course,mid-ohio-sports-car-course,2022-05-15,202205151410_Race,analysis_by_lap,time_card_key_coverage,pass,1.000000,3524/3524
+2022,08_Mid-Ohio Sports Car Course,Mid-Ohio Sports Car Course,mid-ohio-sports-car-course,2022-05-15,202205151410_Race,analysis_by_lap,lap_time_match_rate,pass,1.000000,3524/3524

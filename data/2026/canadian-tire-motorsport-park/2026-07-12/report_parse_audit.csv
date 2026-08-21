@@ -1,0 +1,21 @@
+year,event_code,event_name,track_slug,race_date,session_directory,table,check,status,value,detail
+2026,15_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2026-07-12,202607121405_Race,results,rows,pass,32,
+2026,15_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2026-07-12,202607121405_Race,results,positions,pass,32,"first=[1, 2, 3] last=[30, 31, 32]"
+2026,15_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2026-07-12,202607121405_Race,results,car_numbers,pass,32,not in entries: []
+2026,15_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2026-07-12,202607121405_Race,results,best_lap_time_card_match,pass,32/32,
+2026,15_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2026-07-12,202607121405_Race,results,classified_laps_time_card_match,pass,32/32,official penalties and incomplete time cards can differ
+2026,15_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2026-07-12,202607121405_Race,fastest_laps_by_driver,rows,pass,64,
+2026,15_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2026-07-12,202607121405_Race,fastest_laps_by_driver,positions,pass,64,"first=[1, 2, 3] last=[62, 63, 64]"
+2026,15_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2026-07-12,202607121405_Race,fastest_laps_by_driver,car_numbers,pass,32,not in entries: []
+2026,15_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2026-07-12,202607121405_Race,fastest_laps_by_driver,time_card_lap_match,pass,64/64,
+2026,15_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2026-07-12,202607121405_Race,fastest_laps_by_driver,time_card_driver_match,pass,64/64,
+2026,15_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2026-07-12,202607121405_Race,drive_time,rows,pass,214,
+2026,15_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2026-07-12,202607121405_Race,drive_time,car_numbers,pass,32,not in entries: []
+2026,15_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2026-07-12,202607121405_Race,drive_time,segment_continuity,pass,182/182,
+2026,15_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2026-07-12,202607121405_Race,pit_stops,rows,pass,91,
+2026,15_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2026-07-12,202607121405_Race,pit_stops,car_numbers,pass,32,not in entries: []
+2026,15_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2026-07-12,202607121405_Race,pit_stops,clock_duration_match,pass,91/91,
+2026,15_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2026-07-12,202607121405_Race,pit_stops,cumulative_duration_match,pass,91/91,
+2026,15_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2026-07-12,202607121405_Race,flags_analysis,rows,pass,5,
+2026,15_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2026-07-12,202607121405_Race,flags_analysis,session_elapsed_clock_match,pass,5/5,
+2026,15_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2026-07-12,202607121405_Race,flags_analysis,flag_transition_duration_match,pass,4/4,

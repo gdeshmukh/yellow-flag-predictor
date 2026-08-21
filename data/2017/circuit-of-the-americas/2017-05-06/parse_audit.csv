@@ -1,0 +1,7 @@
+year,event_code,event_name,track_slug,race_date,session_directory,table,check,status,value,detail
+2017,08_Circuit of the Americas,Circuit of the Americas,circuit-of-the-americas,2017-05-06,201705061335_Race,time_cards,rows,pass,2406,
+2017,08_Circuit of the Americas,Circuit of the Americas,circuit-of-the-americas,2017-05-06,201705061335_Race,time_cards,duplicate_car_lap_keys,pass,0,
+2017,08_Circuit of the Americas,Circuit of the Americas,circuit-of-the-americas,2017-05-06,201705061335_Race,time_cards,rows_without_car_header,pass,0,
+2017,08_Circuit of the Americas,Circuit of the Americas,circuit-of-the-americas,2017-05-06,201705061335_Race,time_cards,elapsed_delta_match_rate,pass,1.000000,2367/2367
+2017,08_Circuit of the Americas,Circuit of the Americas,circuit-of-the-americas,2017-05-06,201705061335_Race,time_cards,lap_number_gaps,pass,0,
+2017,08_Circuit of the Americas,Circuit of the Americas,circuit-of-the-americas,2017-05-06,201705061335_Race,analysis_by_lap,source,not_available,,report not published for this race

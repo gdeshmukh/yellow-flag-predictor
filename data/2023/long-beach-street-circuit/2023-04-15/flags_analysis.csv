@@ -1,0 +1,7 @@
+year,event_code,event_name,track_slug,race_date,session_directory,sequence,flag,clock_time,session_elapsed,session_elapsed_ms,flag_time,flag_time_ms,cumulative_flag_time,cumulative_flag_time_ms,lap,source_report,source_page
+2023,08_Long Beach Street Circuit,Long Beach Street Circuit,long-beach-street-circuit,2023-04-15,202304151405_Race,1,GREEN FLAG,14:06:04.923,-,,6.989,6989,6.989,6989,1,25_FlagsAnalysis_Race.PDF,1
+2023,08_Long Beach Street Circuit,Long Beach Street Circuit,long-beach-street-circuit,2023-04-15,202304151405_Race,2,GREEN FLAG,14:06:11.912,6.989,6989,1:04.538,64538,1:11.527,71527,1,25_FlagsAnalysis_Race.PDF,1
+2023,08_Long Beach Street Circuit,Long Beach Street Circuit,long-beach-street-circuit,2023-04-15,202304151405_Race,3,FULL COURSE YELLOW,14:07:16.450,1:11.527,71527,9:17.050,557050,9:17.050,557050,1,25_FlagsAnalysis_Race.PDF,1
+2023,08_Long Beach Street Circuit,Long Beach Street Circuit,long-beach-street-circuit,2023-04-15,202304151405_Race,4,GREEN FLAG,14:16:33.500,10:28.577,628577,1:29:05.097,5345097,1:30:16.624,5416624,5,25_FlagsAnalysis_Race.PDF,1
+2023,08_Long Beach Street Circuit,Long Beach Street Circuit,long-beach-street-circuit,2023-04-15,202304151405_Race,5,FULL COURSE YELLOW,15:45:38.597,1:39:33.674,5973674,2:34.451,154451,11:51.501,711501,77,25_FlagsAnalysis_Race.PDF,1
+2023,08_Long Beach Street Circuit,Long Beach Street Circuit,long-beach-street-circuit,2023-04-15,202304151405_Race,6,CHEQUERED FLAG,15:48:13.049,1:42:08.125,6128125,-,,-,,78,25_FlagsAnalysis_Race.PDF,1

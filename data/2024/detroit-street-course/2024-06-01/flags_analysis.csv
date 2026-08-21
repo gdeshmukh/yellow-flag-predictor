@@ -1,0 +1,15 @@
+year,event_code,event_name,track_slug,race_date,session_directory,sequence,flag,clock_time,session_elapsed,session_elapsed_ms,flag_time,flag_time_ms,cumulative_flag_time,cumulative_flag_time_ms,lap,source_report,source_page
+2024,09_Detroit Street Course,Detroit Street Course,detroit-street-course,2024-06-01,202406011510_Race,1,GREEN FLAG,15:10:04.123,-,,0.001,1,0.001,1,1,25_FlagsAnalysis_Race.PDF,1
+2024,09_Detroit Street Course,Detroit Street Course,detroit-street-course,2024-06-01,202406011510_Race,2,FULL COURSE YELLOW,15:10:04.124,0.001,1,38.447,38447,38.447,38447,1,25_FlagsAnalysis_Race.PDF,1
+2024,09_Detroit Street Course,Detroit Street Course,detroit-street-course,2024-06-01,202406011510_Race,3,GREEN FLAG,15:10:42.571,38.448,38448,1:16.319,76319,1:16.320,76320,1,25_FlagsAnalysis_Race.PDF,1
+2024,09_Detroit Street Course,Detroit Street Course,detroit-street-course,2024-06-01,202406011510_Race,4,FULL COURSE YELLOW,15:11:58.890,1:54.767,114767,4:39.898,279898,5:18.345,318345,2,25_FlagsAnalysis_Race.PDF,1
+2024,09_Detroit Street Course,Detroit Street Course,detroit-street-course,2024-06-01,202406011510_Race,5,GREEN FLAG,15:16:38.788,6:34.665,394665,33:48.231,2028231,35:04.551,2104551,4,25_FlagsAnalysis_Race.PDF,1
+2024,09_Detroit Street Course,Detroit Street Course,detroit-street-course,2024-06-01,202406011510_Race,6,FULL COURSE YELLOW,15:50:27.019,40:22.896,2422896,12:01.389,721389,17:19.734,1039734,35,25_FlagsAnalysis_Race.PDF,1
+2024,09_Detroit Street Course,Detroit Street Course,detroit-street-course,2024-06-01,202406011510_Race,7,GREEN FLAG,16:02:28.408,52:24.285,3144285,1:36.240,96240,36:40.791,2200791,40,25_FlagsAnalysis_Race.PDF,1
+2024,09_Detroit Street Course,Detroit Street Course,detroit-street-course,2024-06-01,202406011510_Race,8,FULL COURSE YELLOW,16:04:04.648,54:00.525,3240525,7:28.631,448631,24:48.365,1488365,42,25_FlagsAnalysis_Race.PDF,1
+2024,09_Detroit Street Course,Detroit Street Course,detroit-street-course,2024-06-01,202406011510_Race,9,GREEN FLAG,16:11:33.279,1:01:29.156,3689156,18:01.297,1081297,54:42.088,3282088,45,25_FlagsAnalysis_Race.PDF,1
+2024,09_Detroit Street Course,Detroit Street Course,detroit-street-course,2024-06-01,202406011510_Race,10,FULL COURSE YELLOW,16:29:34.576,1:19:30.453,4770453,6:20.005,380005,31:08.370,1868370,61,25_FlagsAnalysis_Race.PDF,1
+2024,09_Detroit Street Course,Detroit Street Course,detroit-street-course,2024-06-01,202406011510_Race,11,GREEN FLAG,16:35:54.581,1:25:50.458,5150458,3:15.067,195067,57:57.155,3477155,64,25_FlagsAnalysis_Race.PDF,1
+2024,09_Detroit Street Course,Detroit Street Course,detroit-street-course,2024-06-01,202406011510_Race,12,FULL COURSE YELLOW,16:39:09.648,1:29:05.525,5345525,4:02.237,242237,35:10.607,2110607,67,25_FlagsAnalysis_Race.PDF,1
+2024,09_Detroit Street Course,Detroit Street Course,detroit-street-course,2024-06-01,202406011510_Race,13,GREEN FLAG,16:43:11.885,1:33:07.762,5587762,6:54.315,414315,1:04:51.470,3891470,69,25_FlagsAnalysis_Race.PDF,1
+2024,09_Detroit Street Course,Detroit Street Course,detroit-street-course,2024-06-01,202406011510_Race,14,CHEQUERED FLAG,16:50:06.200,1:40:02.077,6002077,-,,-,,75,25_FlagsAnalysis_Race.PDF,1

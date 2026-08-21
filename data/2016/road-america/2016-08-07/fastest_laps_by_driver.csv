@@ -1,0 +1,83 @@
+year,event_code,event_name,track_slug,race_date,session_directory,position,class,car_number,team,vehicle,driver,fastest_lap_time,driver_lap_number,driver_total_laps,gap_to_fastest,interval,speed_mph,source_report,source_page
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,1,P,55,Mazda Motorsports,Mazda Prototype,Tristan Nunez,1:55.458,16,52,,,126.2,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,2,P,5,Action Express Racing,Chevrolet Corvette DP,Joao Barbosa,1:55.501,22,55,0.043,0.043,126.2,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,3,P,55,Mazda Motorsports,Mazda Prototype,Jonathan Bomarito,1:55.723,16,21,0.265,0.222,125.9,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,4,P,31,Action Express Racing,Chevrolet Corvette DP,Dane Cameron,1:56.099,21,55,0.641,0.376,125.5,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,5,P,10,No. 10 Konica Minolta Corvette DP for Wayne Taylor,Chevrolet Corvette DP,Jordan Taylor,1:56.260,35,52,0.802,0.161,125.3,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,6,P,10,No. 10 Konica Minolta Corvette DP for Wayne Taylor,Chevrolet Corvette DP,Ricky Taylor,1:56.301,16,21,0.843,0.041,125.3,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,7,P,60,Michael Shank Racing w/Curb-Agajanian,Honda HPD Ligier JS P2,Oswaldo Negri Jr.,1:56.541,22,54,1.083,0.240,125.0,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,8,P,5,Action Express Racing,Chevrolet Corvette DP,Christian Fittipaldi,1:56.570,5,18,1.112,0.029,125.0,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,9,P,70,Mazda Motorsports,Mazda Prototype,Tom Long,1:56.985,5,6,1.527,0.415,124.5,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,10,P,31,Action Express Racing,Chevrolet Corvette DP,Eric Curran,1:57.176,14,18,1.718,0.191,124.3,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,11,P,90,VisitFlorida Racing,Chevrolet Corvette DP,Ryan Dalziel,1:57.200,15,52,1.742,0.024,124.3,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,12,P,90,VisitFlorida Racing,Chevrolet Corvette DP,Marc Goossens,1:57.292,14,21,1.834,0.092,124.2,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,13,P,0,Panoz DeltaWing Racing,DeltaWing DWC13,Katherine Legge,1:58.064,29,43,2.606,0.772,123.4,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,14,P,0,Panoz DeltaWing Racing,DeltaWing DWC13,Sean Rayhall,1:58.123,24,29,2.665,0.059,123.3,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,15,PC,52,PR1/Mathiasen Motorsports,ORECA FLM09,Tom Kimber-Smith,1:59.422,28,43,3.964,1.299,122.0,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,16,P,60,Michael Shank Racing w/Curb-Agajanian,Honda HPD Ligier JS P2,John Pew,1:59.425,13,19,3.967,0.003,122.0,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,17,PC,8,Starworks Motorsport,ORECA FLM09,Renger van der Zande,1:59.754,28,37,4.296,0.329,121.6,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,18,PC,85,JDC-Miller Motorsports,ORECA FLM09,Stephen Simpson,1:59.754,12,41,4.296,0.000,121.6,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,19,PC,38,Performance Tech Motorsports,ORECA FLM09,Kyle Marcelli,1:59.852,14,43,4.394,0.098,121.6,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,20,PC,7,Starworks Motorsport,ORECA FLM09,Jose Gutierrez,1:59.948,43,47,4.490,0.096,121.4,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,21,PC,54,CORE autosport,ORECA FLM09,Colin Braun,1:59.990,14,43,4.532,0.042,121.4,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,22,PC,7,Starworks Motorsport,ORECA FLM09,Gustavo Yacaman,2:00.075,8,25,4.617,0.085,121.3,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,23,PC,20,BAR1 Motorsports,ORECA FLM09,Bruno Junqueira,2:00.109,21,43,4.651,0.034,121.3,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,24,PC,38,Performance Tech Motorsports,ORECA FLM09,James French,2:00.241,13,29,4.783,0.132,121.1,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,25,PC,26,BAR1 Motorsports,ORECA FLM09,Johnny Mowlem,2:00.281,5,22,4.823,0.040,121.1,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,26,PC,52,PR1/Mathiasen Motorsports,ORECA FLM09,Robert Alon,2:00.474,5,29,5.016,0.193,120.9,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,27,PC,20,BAR1 Motorsports,ORECA FLM09,Matthew McMurry,2:00.942,15,29,5.484,0.468,120.4,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,28,PC,8,Starworks Motorsport,ORECA FLM09,Alex Popow,2:01.177,24,29,5.719,0.235,120.2,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,29,PC,85,JDC-Miller Motorsports,ORECA FLM09,Misha Goikhberg,2:01.800,22,25,6.342,0.623,119.6,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,30,PC,54,CORE autosport,ORECA FLM09,Jonathan Bennett,2:02.148,15,29,6.690,0.348,119.3,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,31,PC,26,BAR1 Motorsports,ORECA FLM09,Don Yount,2:02.307,6,43,6.849,0.159,119.1,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,32,GTLM,67,Ford Chip Ganassi Racing,Ford GT,Richard Westbrook,2:03.640,8,44,8.182,1.333,117.8,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,33,GTLM,100,BMW Team RLL,BMW M6 GTLM,John Edwards,2:03.644,13,46,8.186,0.004,117.8,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,34,GTLM,67,Ford Chip Ganassi Racing,Ford GT,Ryan Briscoe,2:03.868,6,26,8.410,0.224,117.6,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,35,GTLM,66,Ford Chip Ganassi Racing,Ford GT,Dirk Mueller,2:03.994,12,26,8.536,0.126,117.5,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,36,GTLM,25,BMW Team RLL,BMW M6 GTLM,Bill Auberlen,2:04.029,6,26,8.571,0.035,117.5,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,37,GTLM,4,Corvette Racing,Chevrolet Corvette C7.R,Tommy Milner,2:04.135,30,45,8.677,0.106,117.3,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,38,GTLM,912,Porsche North America,Porsche 911 RSR,Frederic Makowiecki,2:04.141,29,47,8.683,0.006,117.3,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,39,GTLM,62,Risi Competizione,Ferrari 488 GTE,Toni Vilander,2:04.152,11,44,8.694,0.011,117.3,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,40,GTLM,911,Porsche North America,Porsche 911 RSR,Nick Tandy,2:04.161,29,46,8.703,0.009,117.3,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,41,GTLM,912,Porsche North America,Porsche 911 RSR,Earl Bamber,2:04.243,4,23,8.785,0.082,117.3,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,42,GTLM,25,BMW Team RLL,BMW M6 GTLM,Dirk Werner,2:04.277,22,43,8.819,0.034,117.2,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,43,GTLM,66,Ford Chip Ganassi Racing,Ford GT,Joey Hand,2:04.344,10,41,8.886,0.067,117.1,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,44,GTLM,3,Corvette Racing,Chevrolet Corvette C7.R,Jan Magnussen,2:04.352,33,46,8.894,0.008,117.1,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,45,GTLM,911,Porsche North America,Porsche 911 RSR,Patrick Pilet,2:04.411,4,24,8.953,0.059,117.1,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,46,GTLM,62,Risi Competizione,Ferrari 488 GTE,Giancarlo Fisichella,2:04.496,2,26,9.038,0.085,117.0,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,47,GTLM,3,Corvette Racing,Chevrolet Corvette C7.R,Antonio Garcia,2:04.503,4,24,9.045,0.007,117.0,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,48,PC,88,Starworks Motorsport,ORECA FLM09,Mark Kvamme,2:04.544,19,25,9.086,0.041,117.0,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,49,GTLM,100,BMW Team RLL,BMW M6 GTLM,Lucas Luhr,2:04.608,14,24,9.150,0.064,116.9,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,50,GTLM,4,Corvette Racing,Chevrolet Corvette C7.R,Oliver Gavin,2:04.611,4,25,9.153,0.003,116.9,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,51,GTD,73,Park Place Motorsports,Porsche 911 GT3 R,Jorg Bergmeister,2:07.643,26,45,12.185,3.032,114.1,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,52,GTD,48,Paul Miller Racing,Lamborghini Huracan GT3,Madison Snow,2:07.835,14,29,12.377,0.192,114.0,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,53,GTD,48,Paul Miller Racing,Lamborghini Huracan GT3,Bryan Sellers,2:07.872,25,40,12.414,0.037,113.9,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,54,GTD,44,Magnus Racing,Audi R8 LMS GT3,Andy Lally,2:07.881,10,47,12.423,0.009,113.9,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,55,GTD,23,Team Seattle / Alex Job Racing,Porsche 911 GT3 R,Mario Farnbacher,2:07.896,36,46,12.438,0.015,113.9,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,56,GTD,96,Turner Motorsport,BMW M6 GT3,Jens Klingmann,2:07.971,28,46,12.513,0.075,113.8,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,57,GTD,97,Turner Motorsport,BMW M6 GT3,Markus Palttala,2:08.110,35,47,12.652,0.139,113.7,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,58,GTD,63,Scuderia Corsa,Ferrari 488 GT3,Alessandro Balzan,2:08.174,28,47,12.716,0.064,113.7,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,59,GTD,33,Riley Motorsports,Dodge Viper GT3-R,Jeroen Bleekemolen,2:08.190,30,46,12.732,0.016,113.7,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,60,GTD,9,Stevenson Motorsports,Audi R8 LMS GT3,Lawson Aschenbach,2:08.227,25,44,12.769,0.037,113.6,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,61,GTD,23,Team Seattle / Alex Job Racing,Porsche 911 GT3 R,Alex Riberas,2:08.232,14,23,12.774,0.005,113.6,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,62,GTD,6,Stevenson Motorsports,Audi R8 LMS GT3,Robin Liddell,2:08.370,29,45,12.912,0.138,113.5,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,63,GTD,80,Lone Star Racing,Dodge Viper GT3-R,Mike Skeen,2:08.387,33,45,12.929,0.017,113.5,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,64,GTD,22,Alex Job Racing,Porsche 911 GT3 R,Sven Muller,2:08.652,25,44,13.194,0.265,113.2,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,65,GTD,9,Stevenson Motorsports,Audi R8 LMS GT3,Matt Bell,2:08.691,12,25,13.233,0.039,113.2,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,66,GTD,73,Park Place Motorsports,Porsche 911 GT3 R,Patrick Lindsey,2:08.846,16,24,13.388,0.155,113.0,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,67,GTD,6,Stevenson Motorsports,Audi R8 LMS GT3,Andrew Davis,2:08.927,13,24,13.469,0.081,113.0,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,68,GTD,27,Dream Racing Motorsport,Lamborghini Huracan GT3,Cedric Sbirrazzuoli,2:08.973,12,22,13.515,0.046,112.9,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,69,GTD,33,Riley Motorsports,Dodge Viper GT3-R,Ben Keating,2:09.028,16,23,13.570,0.055,112.9,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,70,GTD,77,Alex Job Racing,Porsche 911 GT3 R,Gunnar Jeannette,2:09.078,19,66,13.620,0.050,112.9,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,71,GTD,16,Change Racing,Lamborghini Huracan GT3,Spencer Pumpelly,2:09.108,33,44,13.650,0.030,112.9,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,72,GTD,27,Dream Racing Motorsport,Lamborghini Huracan GT3,Luca Persiani,2:09.113,4,22,13.655,0.005,112.8,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,73,GTD,63,Scuderia Corsa,Ferrari 488 GT3,Christina Nielsen,2:09.570,16,22,14.112,0.457,112.4,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,74,GTD,44,Magnus Racing,Audi R8 LMS GT3,John Potter,2:09.961,5,22,14.503,0.391,112.1,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,75,GTD,16,Change Racing,Lamborghini Huracan GT3,Corey Lewis,2:09.971,10,24,14.513,0.010,112.0,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,76,GTD,97,Turner Motorsport,BMW M6 GT3,Michael Marsal,2:09.981,16,22,14.523,0.010,112.0,07_ Driver Fastest Lap.PDF,1
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,77,GTD,96,Turner Motorsport,BMW M6 GT3,Bret Curtis,2:10.125,4,23,14.667,0.144,111.9,07_ Driver Fastest Lap.PDF,2
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,78,GTD,22,Alex Job Racing,Porsche 911 GT3 R,Cooper MacNeil,2:10.357,16,25,14.899,0.232,111.7,07_ Driver Fastest Lap.PDF,2
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,79,GTD,80,Lone Star Racing,Dodge Viper GT3-R,Dan Knox,2:10.775,14,24,15.317,0.418,111.4,07_ Driver Fastest Lap.PDF,2
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,80,GTD,77,Alex Job Racing,Porsche 911 GT3 R,David MacNeil,2:19.226,2,3,23.768,8.451,104.7,07_ Driver Fastest Lap.PDF,2
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,81,P,70,Mazda Motorsports,Mazda Prototype,Joel Miller,,,,,,,07_ Driver Fastest Lap.PDF,2
+2016,14_Road America,Road America,road-america,2016-08-07,201608071505_Race,82,PC,88,Starworks Motorsport,ORECA FLM09,Richard Bradley,,,,,,,07_ Driver Fastest Lap.PDF,2

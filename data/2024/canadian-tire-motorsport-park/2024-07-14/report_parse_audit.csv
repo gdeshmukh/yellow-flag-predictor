@@ -1,0 +1,21 @@
+year,event_code,event_name,track_slug,race_date,session_directory,table,check,status,value,detail
+2024,13_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2024-07-14,202407141105_Race,results,rows,pass,34,
+2024,13_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2024-07-14,202407141105_Race,results,positions,pass,34,"first=[1, 2, 3] last=[32, 33, 34]"
+2024,13_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2024-07-14,202407141105_Race,results,car_numbers,pass,34,not in entries: []
+2024,13_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2024-07-14,202407141105_Race,results,best_lap_time_card_match,pass,34/34,
+2024,13_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2024-07-14,202407141105_Race,results,classified_laps_time_card_match,pass,34/34,official penalties and incomplete time cards can differ
+2024,13_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2024-07-14,202407141105_Race,fastest_laps_by_driver,rows,pass,68,
+2024,13_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2024-07-14,202407141105_Race,fastest_laps_by_driver,positions,pass,68,"first=[1, 2, 3] last=[66, 67, 68]"
+2024,13_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2024-07-14,202407141105_Race,fastest_laps_by_driver,car_numbers,pass,34,not in entries: []
+2024,13_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2024-07-14,202407141105_Race,fastest_laps_by_driver,time_card_lap_match,pass,66/66,
+2024,13_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2024-07-14,202407141105_Race,fastest_laps_by_driver,time_card_driver_match,pass,66/66,
+2024,13_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2024-07-14,202407141105_Race,drive_time,rows,pass,224,
+2024,13_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2024-07-14,202407141105_Race,drive_time,car_numbers,pass,34,not in entries: []
+2024,13_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2024-07-14,202407141105_Race,drive_time,segment_continuity,pass,190/190,
+2024,13_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2024-07-14,202407141105_Race,pit_stops,rows,pass,95,
+2024,13_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2024-07-14,202407141105_Race,pit_stops,car_numbers,pass,33,not in entries: []
+2024,13_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2024-07-14,202407141105_Race,pit_stops,clock_duration_match,pass,95/95,
+2024,13_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2024-07-14,202407141105_Race,pit_stops,cumulative_duration_match,pass,95/95,
+2024,13_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2024-07-14,202407141105_Race,flags_analysis,rows,pass,8,
+2024,13_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2024-07-14,202407141105_Race,flags_analysis,session_elapsed_clock_match,pass,8/8,
+2024,13_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2024-07-14,202407141105_Race,flags_analysis,flag_transition_duration_match,pass,7/7,

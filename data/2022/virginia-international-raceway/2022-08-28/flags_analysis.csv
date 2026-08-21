@@ -1,0 +1,5 @@
+year,event_code,event_name,track_slug,race_date,session_directory,sequence,flag,clock_time,session_elapsed,session_elapsed_ms,flag_time,flag_time_ms,cumulative_flag_time,cumulative_flag_time_ms,lap,source_report,source_page
+2022,17_VIRginia International Raceway,VIRginia International Raceway,virginia-international-raceway,2022-08-28,202208281410_Race,1,GREEN FLAG,14:10:43.918,-,,1:19:07.183,4747183,1:19:07.183,4747183,1,25_FlagsAnalysis_Race.PDF,1
+2022,17_VIRginia International Raceway,VIRginia International Raceway,virginia-international-raceway,2022-08-28,202208281410_Race,2,FULL COURSE YELLOW,15:29:51.101,1:19:07.183,4747183,12:51.339,771339,12:51.339,771339,44,25_FlagsAnalysis_Race.PDF,1
+2022,17_VIRginia International Raceway,VIRginia International Raceway,virginia-international-raceway,2022-08-28,202208281410_Race,3,GREEN FLAG,15:42:42.440,1:31:58.522,5518522,1:08:39.383,4119383,2:27:46.566,8866566,48,25_FlagsAnalysis_Race.PDF,1
+2022,17_VIRginia International Raceway,VIRginia International Raceway,virginia-international-raceway,2022-08-28,202208281410_Race,4,CHEQUERED FLAG,16:51:21.824,2:40:37.905,9637905,-,,-,,86,25_FlagsAnalysis_Race.PDF,1

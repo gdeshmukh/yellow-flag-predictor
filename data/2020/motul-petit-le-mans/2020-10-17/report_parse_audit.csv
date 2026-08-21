@@ -1,0 +1,19 @@
+year,event_code,event_name,track_slug,race_date,session_directory,table,check,status,value,detail
+2020,12_Motul Petit Le Mans,Motul Petit Le Mans,motul-petit-le-mans,2020-10-17,202010171240_Race,results,rows,pass,31,
+2020,12_Motul Petit Le Mans,Motul Petit Le Mans,motul-petit-le-mans,2020-10-17,202010171240_Race,results,positions,pass,31,"first=[1, 2, 3] last=[29, 30, 31]"
+2020,12_Motul Petit Le Mans,Motul Petit Le Mans,motul-petit-le-mans,2020-10-17,202010171240_Race,results,car_numbers,pass,31,not in entries: []
+2020,12_Motul Petit Le Mans,Motul Petit Le Mans,motul-petit-le-mans,2020-10-17,202010171240_Race,results,best_lap_time_card_match,pass,31/31,
+2020,12_Motul Petit Le Mans,Motul Petit Le Mans,motul-petit-le-mans,2020-10-17,202010171240_Race,results,classified_laps_time_card_match,warn,29/31,official penalties and incomplete time cards can differ
+2020,12_Motul Petit Le Mans,Motul Petit Le Mans,motul-petit-le-mans,2020-10-17,202010171240_Race,fastest_laps_by_driver,rows,pass,93,
+2020,12_Motul Petit Le Mans,Motul Petit Le Mans,motul-petit-le-mans,2020-10-17,202010171240_Race,fastest_laps_by_driver,positions,pass,93,"first=[1, 2, 3] last=[91, 92, 93]"
+2020,12_Motul Petit Le Mans,Motul Petit Le Mans,motul-petit-le-mans,2020-10-17,202010171240_Race,fastest_laps_by_driver,car_numbers,pass,31,not in entries: []
+2020,12_Motul Petit Le Mans,Motul Petit Le Mans,motul-petit-le-mans,2020-10-17,202010171240_Race,fastest_laps_by_driver,time_card_lap_match,pass,93/93,
+2020,12_Motul Petit Le Mans,Motul Petit Le Mans,motul-petit-le-mans,2020-10-17,202010171240_Race,fastest_laps_by_driver,time_card_driver_match,pass,93/93,
+2020,12_Motul Petit Le Mans,Motul Petit Le Mans,motul-petit-le-mans,2020-10-17,202010171240_Race,drive_time,rows,pass,832,
+2020,12_Motul Petit Le Mans,Motul Petit Le Mans,motul-petit-le-mans,2020-10-17,202010171240_Race,drive_time,car_numbers,pass,31,not in entries: []
+2020,12_Motul Petit Le Mans,Motul Petit Le Mans,motul-petit-le-mans,2020-10-17,202010171240_Race,drive_time,segment_continuity,pass,801/801,
+2020,12_Motul Petit Le Mans,Motul Petit Le Mans,motul-petit-le-mans,2020-10-17,202010171240_Race,pit_stops,rows,pass,399,
+2020,12_Motul Petit Le Mans,Motul Petit Le Mans,motul-petit-le-mans,2020-10-17,202010171240_Race,pit_stops,car_numbers,pass,31,not in entries: []
+2020,12_Motul Petit Le Mans,Motul Petit Le Mans,motul-petit-le-mans,2020-10-17,202010171240_Race,pit_stops,clock_duration_match,pass,399/399,
+2020,12_Motul Petit Le Mans,Motul Petit Le Mans,motul-petit-le-mans,2020-10-17,202010171240_Race,pit_stops,cumulative_duration_match,pass,399/399,
+2020,12_Motul Petit Le Mans,Motul Petit Le Mans,motul-petit-le-mans,2020-10-17,202010171240_Race,flags_analysis,source,not_available,0,report not published for this race

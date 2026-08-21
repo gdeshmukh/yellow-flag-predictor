@@ -1,0 +1,17 @@
+year,event_code,event_name,track_slug,race_date,session_directory,table,check,status,value,detail
+2017,06_Long Beach Street Circuit,Long Beach Street Circuit,long-beach-street-circuit,2017-04-08,201704081305_Race,results,rows,pass,34,
+2017,06_Long Beach Street Circuit,Long Beach Street Circuit,long-beach-street-circuit,2017-04-08,201704081305_Race,results,positions,pass,34,"first=[1, 2, 3] last=[32, 33, 34]"
+2017,06_Long Beach Street Circuit,Long Beach Street Circuit,long-beach-street-circuit,2017-04-08,201704081305_Race,results,car_numbers,warn,34,not in entries: ['62']
+2017,06_Long Beach Street Circuit,Long Beach Street Circuit,long-beach-street-circuit,2017-04-08,201704081305_Race,results,best_lap_time_card_match,pass,32/32,
+2017,06_Long Beach Street Circuit,Long Beach Street Circuit,long-beach-street-circuit,2017-04-08,201704081305_Race,results,classified_laps_time_card_match,pass,33/33,official penalties and incomplete time cards can differ
+2017,06_Long Beach Street Circuit,Long Beach Street Circuit,long-beach-street-circuit,2017-04-08,201704081305_Race,fastest_laps_by_driver,rows,pass,70,
+2017,06_Long Beach Street Circuit,Long Beach Street Circuit,long-beach-street-circuit,2017-04-08,201704081305_Race,fastest_laps_by_driver,positions,pass,70,"first=[1, 2, 3] last=[68, 69, 70]"
+2017,06_Long Beach Street Circuit,Long Beach Street Circuit,long-beach-street-circuit,2017-04-08,201704081305_Race,fastest_laps_by_driver,car_numbers,warn,35,"not in entries: ['62', '90']"
+2017,06_Long Beach Street Circuit,Long Beach Street Circuit,long-beach-street-circuit,2017-04-08,201704081305_Race,fastest_laps_by_driver,time_card_lap_match,pass,64/64,
+2017,06_Long Beach Street Circuit,Long Beach Street Circuit,long-beach-street-circuit,2017-04-08,201704081305_Race,fastest_laps_by_driver,time_card_driver_match,pass,64/64,
+2017,06_Long Beach Street Circuit,Long Beach Street Circuit,long-beach-street-circuit,2017-04-08,201704081305_Race,drive_time,source,not_available,0,report not published for this race
+2017,06_Long Beach Street Circuit,Long Beach Street Circuit,long-beach-street-circuit,2017-04-08,201704081305_Race,pit_stops,rows,pass,49,
+2017,06_Long Beach Street Circuit,Long Beach Street Circuit,long-beach-street-circuit,2017-04-08,201704081305_Race,pit_stops,car_numbers,pass,32,not in entries: []
+2017,06_Long Beach Street Circuit,Long Beach Street Circuit,long-beach-street-circuit,2017-04-08,201704081305_Race,pit_stops,clock_duration_match,pass,49/49,
+2017,06_Long Beach Street Circuit,Long Beach Street Circuit,long-beach-street-circuit,2017-04-08,201704081305_Race,pit_stops,cumulative_duration_match,pass,49/49,
+2017,06_Long Beach Street Circuit,Long Beach Street Circuit,long-beach-street-circuit,2017-04-08,201704081305_Race,flags_analysis,source,not_available,0,report not published for this race

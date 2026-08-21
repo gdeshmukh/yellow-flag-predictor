@@ -1,0 +1,20 @@
+year,event_code,event_name,track_slug,race_date,session_directory,table,check,status,value,detail
+2017,13_Watkins Glen International,Watkins Glen International,watkins-glen-international,2017-07-02,201707021010_Race,results,source,not_available,0,report not published for this race
+2017,13_Watkins Glen International,Watkins Glen International,watkins-glen-international,2017-07-02,201707021010_Race,results_by_class,rows,pass,38,
+2017,13_Watkins Glen International,Watkins Glen International,watkins-glen-international,2017-07-02,201707021010_Race,results_by_class,class_positions,pass,4,"P:[1, 2, 3]...[8, 9, 10]; PC:[1, 2, 3]...[1, 2, 3]; GTLM:[1, 2, 3]...[6, 7, 8]; GTD:[1, 2, 3]...[15, 16, 17]"
+2017,13_Watkins Glen International,Watkins Glen International,watkins-glen-international,2017-07-02,201707021010_Race,results_by_class,car_numbers,pass,38,not in entries: []
+2017,13_Watkins Glen International,Watkins Glen International,watkins-glen-international,2017-07-02,201707021010_Race,results_by_class,best_lap_time_card_match,pass,38/38,
+2017,13_Watkins Glen International,Watkins Glen International,watkins-glen-international,2017-07-02,201707021010_Race,results_by_class,classified_laps_time_card_match,pass,37/37,official penalties and incomplete time cards can differ
+2017,13_Watkins Glen International,Watkins Glen International,watkins-glen-international,2017-07-02,201707021010_Race,fastest_laps_by_driver,rows,pass,94,
+2017,13_Watkins Glen International,Watkins Glen International,watkins-glen-international,2017-07-02,201707021010_Race,fastest_laps_by_driver,positions,pass,94,"first=[1, 2, 3] last=[92, 93, 94]"
+2017,13_Watkins Glen International,Watkins Glen International,watkins-glen-international,2017-07-02,201707021010_Race,fastest_laps_by_driver,car_numbers,pass,38,not in entries: []
+2017,13_Watkins Glen International,Watkins Glen International,watkins-glen-international,2017-07-02,201707021010_Race,fastest_laps_by_driver,time_card_lap_match,pass,92/92,
+2017,13_Watkins Glen International,Watkins Glen International,watkins-glen-international,2017-07-02,201707021010_Race,fastest_laps_by_driver,time_card_driver_match,pass,92/92,
+2017,13_Watkins Glen International,Watkins Glen International,watkins-glen-international,2017-07-02,201707021010_Race,drive_time,rows,pass,589,
+2017,13_Watkins Glen International,Watkins Glen International,watkins-glen-international,2017-07-02,201707021010_Race,drive_time,car_numbers,pass,38,not in entries: []
+2017,13_Watkins Glen International,Watkins Glen International,watkins-glen-international,2017-07-02,201707021010_Race,drive_time,segment_continuity,pass,551/551,
+2017,13_Watkins Glen International,Watkins Glen International,watkins-glen-international,2017-07-02,201707021010_Race,pit_stops,rows,pass,274,
+2017,13_Watkins Glen International,Watkins Glen International,watkins-glen-international,2017-07-02,201707021010_Race,pit_stops,car_numbers,pass,38,not in entries: []
+2017,13_Watkins Glen International,Watkins Glen International,watkins-glen-international,2017-07-02,201707021010_Race,pit_stops,clock_duration_match,pass,274/274,
+2017,13_Watkins Glen International,Watkins Glen International,watkins-glen-international,2017-07-02,201707021010_Race,pit_stops,cumulative_duration_match,pass,274/274,
+2017,13_Watkins Glen International,Watkins Glen International,watkins-glen-international,2017-07-02,201707021010_Race,flags_analysis,source,not_available,0,report not published for this race

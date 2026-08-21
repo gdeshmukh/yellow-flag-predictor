@@ -1,0 +1,7 @@
+year,event_code,event_name,track_slug,race_date,session_directory,sequence,flag,clock_time,session_elapsed,session_elapsed_ms,flag_time,flag_time_ms,cumulative_flag_time,cumulative_flag_time_ms,lap,source_report,source_page
+2025,11_Detroit Street Course,Detroit Street Course,detroit-street-course,2025-05-31,202505311640_Race,1,GREEN FLAG,15:39:50.770,-,,2:43.832,163832,2:43.832,163832,1,25_FlagsAnalysis_Race.PDF,1
+2025,11_Detroit Street Course,Detroit Street Course,detroit-street-course,2025-05-31,202505311640_Race,2,FULL COURSE YELLOW,15:42:34.602,2:43.832,163832,3:28.153,208153,3:28.153,208153,3,25_FlagsAnalysis_Race.PDF,1
+2025,11_Detroit Street Course,Detroit Street Course,detroit-street-course,2025-05-31,202505311640_Race,3,GREEN FLAG,15:46:02.755,6:11.985,371985,57:07.954,3427954,59:51.786,3591786,4,25_FlagsAnalysis_Race.PDF,1
+2025,11_Detroit Street Course,Detroit Street Course,detroit-street-course,2025-05-31,202505311640_Race,4,FULL COURSE YELLOW,16:43:10.709,1:03:19.939,3799939,8:52.646,532646,12:20.799,740799,54,25_FlagsAnalysis_Race.PDF,1
+2025,11_Detroit Street Course,Detroit Street Course,detroit-street-course,2025-05-31,202505311640_Race,5,GREEN FLAG,16:52:03.355,1:12:12.585,4332585,28:34.072,1714072,1:28:25.858,5305858,59,25_FlagsAnalysis_Race.PDF,1
+2025,11_Detroit Street Course,Detroit Street Course,detroit-street-course,2025-05-31,202505311640_Race,6,CHEQUERED FLAG,17:20:37.428,1:40:46.657,6046657,-,,-,,84,25_FlagsAnalysis_Race.PDF,1

@@ -1,0 +1,21 @@
+year,event_code,event_name,track_slug,race_date,session_directory,table,check,status,value,detail
+2024,19_Road Atlanta,Road Atlanta,road-atlanta,2024-10-12,202410121210_Race,results,rows,pass,53,
+2024,19_Road Atlanta,Road Atlanta,road-atlanta,2024-10-12,202410121210_Race,results,positions,pass,53,"first=[1, 2, 3] last=[51, 52, 53]"
+2024,19_Road Atlanta,Road Atlanta,road-atlanta,2024-10-12,202410121210_Race,results,car_numbers,pass,53,not in entries: []
+2024,19_Road Atlanta,Road Atlanta,road-atlanta,2024-10-12,202410121210_Race,results,best_lap_time_card_match,pass,53/53,
+2024,19_Road Atlanta,Road Atlanta,road-atlanta,2024-10-12,202410121210_Race,results,classified_laps_time_card_match,pass,53/53,official penalties and incomplete time cards can differ
+2024,19_Road Atlanta,Road Atlanta,road-atlanta,2024-10-12,202410121210_Race,fastest_laps_by_driver,rows,pass,159,
+2024,19_Road Atlanta,Road Atlanta,road-atlanta,2024-10-12,202410121210_Race,fastest_laps_by_driver,positions,pass,159,"first=[1, 2, 3] last=[157, 158, 159]"
+2024,19_Road Atlanta,Road Atlanta,road-atlanta,2024-10-12,202410121210_Race,fastest_laps_by_driver,car_numbers,pass,53,not in entries: []
+2024,19_Road Atlanta,Road Atlanta,road-atlanta,2024-10-12,202410121210_Race,fastest_laps_by_driver,time_card_lap_match,pass,154/154,
+2024,19_Road Atlanta,Road Atlanta,road-atlanta,2024-10-12,202410121210_Race,fastest_laps_by_driver,time_card_driver_match,warn,152/154,
+2024,19_Road Atlanta,Road Atlanta,road-atlanta,2024-10-12,202410121210_Race,drive_time,rows,pass,1216,
+2024,19_Road Atlanta,Road Atlanta,road-atlanta,2024-10-12,202410121210_Race,drive_time,car_numbers,pass,53,not in entries: []
+2024,19_Road Atlanta,Road Atlanta,road-atlanta,2024-10-12,202410121210_Race,drive_time,segment_continuity,pass,1163/1163,
+2024,19_Road Atlanta,Road Atlanta,road-atlanta,2024-10-12,202410121210_Race,pit_stops,rows,pass,578,
+2024,19_Road Atlanta,Road Atlanta,road-atlanta,2024-10-12,202410121210_Race,pit_stops,car_numbers,pass,52,not in entries: []
+2024,19_Road Atlanta,Road Atlanta,road-atlanta,2024-10-12,202410121210_Race,pit_stops,clock_duration_match,pass,578/578,
+2024,19_Road Atlanta,Road Atlanta,road-atlanta,2024-10-12,202410121210_Race,pit_stops,cumulative_duration_match,pass,578/578,
+2024,19_Road Atlanta,Road Atlanta,road-atlanta,2024-10-12,202410121210_Race,flags_analysis,rows,pass,12,
+2024,19_Road Atlanta,Road Atlanta,road-atlanta,2024-10-12,202410121210_Race,flags_analysis,session_elapsed_clock_match,pass,12/12,
+2024,19_Road Atlanta,Road Atlanta,road-atlanta,2024-10-12,202410121210_Race,flags_analysis,flag_transition_duration_match,pass,11/11,

@@ -1,0 +1,19 @@
+year,event_code,event_name,track_slug,race_date,session_directory,table,check,status,value,detail
+2021,13_WeatherTech 240 - WGI,WeatherTech 240 - WGI,weathertech-240-wgi,2021-07-02,202107021810_Race,results,rows,pass,30,
+2021,13_WeatherTech 240 - WGI,WeatherTech 240 - WGI,weathertech-240-wgi,2021-07-02,202107021810_Race,results,positions,pass,30,"first=[1, 2, 3] last=[28, 29, 30]"
+2021,13_WeatherTech 240 - WGI,WeatherTech 240 - WGI,weathertech-240-wgi,2021-07-02,202107021810_Race,results,car_numbers,pass,30,not in entries: []
+2021,13_WeatherTech 240 - WGI,WeatherTech 240 - WGI,weathertech-240-wgi,2021-07-02,202107021810_Race,results,best_lap_time_card_match,pass,30/30,
+2021,13_WeatherTech 240 - WGI,WeatherTech 240 - WGI,weathertech-240-wgi,2021-07-02,202107021810_Race,results,classified_laps_time_card_match,warn,29/30,official penalties and incomplete time cards can differ
+2021,13_WeatherTech 240 - WGI,WeatherTech 240 - WGI,weathertech-240-wgi,2021-07-02,202107021810_Race,fastest_laps_by_driver,rows,pass,60,
+2021,13_WeatherTech 240 - WGI,WeatherTech 240 - WGI,weathertech-240-wgi,2021-07-02,202107021810_Race,fastest_laps_by_driver,positions,pass,60,"first=[1, 2, 3] last=[58, 59, 60]"
+2021,13_WeatherTech 240 - WGI,WeatherTech 240 - WGI,weathertech-240-wgi,2021-07-02,202107021810_Race,fastest_laps_by_driver,car_numbers,pass,30,not in entries: []
+2021,13_WeatherTech 240 - WGI,WeatherTech 240 - WGI,weathertech-240-wgi,2021-07-02,202107021810_Race,fastest_laps_by_driver,time_card_lap_match,pass,60/60,
+2021,13_WeatherTech 240 - WGI,WeatherTech 240 - WGI,weathertech-240-wgi,2021-07-02,202107021810_Race,fastest_laps_by_driver,time_card_driver_match,pass,60/60,
+2021,13_WeatherTech 240 - WGI,WeatherTech 240 - WGI,weathertech-240-wgi,2021-07-02,202107021810_Race,drive_time,rows,pass,214,
+2021,13_WeatherTech 240 - WGI,WeatherTech 240 - WGI,weathertech-240-wgi,2021-07-02,202107021810_Race,drive_time,car_numbers,pass,30,not in entries: []
+2021,13_WeatherTech 240 - WGI,WeatherTech 240 - WGI,weathertech-240-wgi,2021-07-02,202107021810_Race,drive_time,segment_continuity,warn,154/184,
+2021,13_WeatherTech 240 - WGI,WeatherTech 240 - WGI,weathertech-240-wgi,2021-07-02,202107021810_Race,pit_stops,rows,pass,90,
+2021,13_WeatherTech 240 - WGI,WeatherTech 240 - WGI,weathertech-240-wgi,2021-07-02,202107021810_Race,pit_stops,car_numbers,pass,30,not in entries: []
+2021,13_WeatherTech 240 - WGI,WeatherTech 240 - WGI,weathertech-240-wgi,2021-07-02,202107021810_Race,pit_stops,clock_duration_match,pass,90/90,
+2021,13_WeatherTech 240 - WGI,WeatherTech 240 - WGI,weathertech-240-wgi,2021-07-02,202107021810_Race,pit_stops,cumulative_duration_match,pass,90/90,
+2021,13_WeatherTech 240 - WGI,WeatherTech 240 - WGI,weathertech-240-wgi,2021-07-02,202107021810_Race,flags_analysis,source,not_available,0,report not published for this race

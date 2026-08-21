@@ -1,0 +1,13 @@
+year,event_code,event_name,track_slug,race_date,session_directory,sequence,flag,clock_time,session_elapsed,session_elapsed_ms,flag_time,flag_time_ms,cumulative_flag_time,cumulative_flag_time_ms,lap,source_report,source_page
+2025,16_Road America,Road America,road-america,2025-08-03,202508031310_Race,1,GREEN FLAG,13:10:42.579,-,,25.724,25724,25.724,25724,1,25_FlagsAnalysis_Race.PDF,1
+2025,16_Road America,Road America,road-america,2025-08-03,202508031310_Race,2,FULL COURSE YELLOW,13:11:08.303,25.724,25724,13:06.624,786624,13:06.624,786624,1,25_FlagsAnalysis_Race.PDF,1
+2025,16_Road America,Road America,road-america,2025-08-03,202508031310_Race,3,GREEN FLAG,13:24:14.927,13:32.348,812348,2:16.482,136482,2:42.206,162206,4,25_FlagsAnalysis_Race.PDF,1
+2025,16_Road America,Road America,road-america,2025-08-03,202508031310_Race,4,FULL COURSE YELLOW,13:26:31.409,15:48.830,948830,16:42.384,1002384,29:49.008,1789008,6,25_FlagsAnalysis_Race.PDF,1
+2025,16_Road America,Road America,road-america,2025-08-03,202508031310_Race,5,GREEN FLAG,13:43:13.793,32:31.214,1951214,23:29.950,1409950,26:12.156,1572156,10,25_FlagsAnalysis_Race.PDF,1
+2025,16_Road America,Road America,road-america,2025-08-03,202508031310_Race,6,FULL COURSE YELLOW,14:06:43.743,56:01.164,3361164,16:57.574,1017574,46:46.582,2806582,23,25_FlagsAnalysis_Race.PDF,1
+2025,16_Road America,Road America,road-america,2025-08-03,202508031310_Race,7,GREEN FLAG,14:23:41.317,1:12:58.738,4378738,57.458,57458,27:09.614,1629614,27,25_FlagsAnalysis_Race.PDF,1
+2025,16_Road America,Road America,road-america,2025-08-03,202508031310_Race,8,FULL COURSE YELLOW,14:24:38.775,1:13:56.196,4436196,9:57.809,597809,56:44.391,3404391,28,25_FlagsAnalysis_Race.PDF,1
+2025,16_Road America,Road America,road-america,2025-08-03,202508031310_Race,9,GREEN FLAG,14:34:36.584,1:23:54.005,5034005,22:12.110,1332110,49:21.724,2961724,30,25_FlagsAnalysis_Race.PDF,1
+2025,16_Road America,Road America,road-america,2025-08-03,202508031310_Race,10,FULL COURSE YELLOW,14:56:48.694,1:46:06.115,6366115,16:05.802,965802,1:12:50.193,4370193,42,25_FlagsAnalysis_Race.PDF,1
+2025,16_Road America,Road America,road-america,2025-08-03,202508031310_Race,11,GREEN FLAG,15:12:54.496,2:02:11.917,7331917,38:08.822,2288822,1:27:30.546,5250546,46,25_FlagsAnalysis_Race.PDF,1
+2025,16_Road America,Road America,road-america,2025-08-03,202508031310_Race,12,CHEQUERED FLAG,15:51:03.319,2:40:20.739,9620739,-,,-,,66,25_FlagsAnalysis_Race.PDF,1

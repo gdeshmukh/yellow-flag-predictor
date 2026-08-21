@@ -1,0 +1,63 @@
+year,event_code,event_name,track_slug,race_date,session_directory,position,class,car_number,team,vehicle,driver,fastest_lap_time,driver_lap_number,driver_total_laps,gap_to_fastest,interval,speed_mph,source_report,source_page
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,1,PC,8,Starworks Motorsport,ORECA FLM09,Renger van der Zande,49.250,3,110,,,107.7,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,2,PC,52,PR1/Mathiasen Motorsports,ORECA FLM09,Robert Alon,49.438,39,95,0.188,0.188,107.3,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,3,PC,52,PR1/Mathiasen Motorsports,ORECA FLM09,Tom Kimber-Smith,49.628,13,74,0.378,0.190,106.9,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,4,PC,38,Performance Tech Motorsports,ORECA FLM09,Kyle Marcelli,49.823,8,95,0.573,0.195,106.5,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,5,PC,54,CORE autosport,ORECA FLM09,Colin Braun,49.915,5,10,0.665,0.092,106.3,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,6,PC,20,BAR1 Motorsports,ORECA FLM09,Matthew McMurry,49.988,40,95,0.738,0.073,106.1,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,7,PC,8,Starworks Motorsport,ORECA FLM09,Alex Popow,50.011,20,59,0.761,0.023,106.1,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,8,PC,88,Starworks Motorsport,ORECA FLM09,Remo Ruscitti,50.061,5,106,0.811,0.050,106.0,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,9,PC,7,Starworks Motorsport,ORECA FLM09,Jose Gutierrez,50.061,20,98,0.811,0.000,106.0,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,10,PC,85,JDC-Miller Motorsports,ORECA FLM09,Misha Goikhberg,50.306,71,101,1.056,0.245,105.5,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,11,PC,20,BAR1 Motorsports,ORECA FLM09,Johnny Mowlem,50.492,14,73,1.242,0.186,105.0,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,12,PC,38,Performance Tech Motorsports,ORECA FLM09,James French,50.650,67,73,1.400,0.158,104.7,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,13,PC,54,CORE autosport,ORECA FLM09,Jonathan Bennett,51.021,18,59,1.771,0.371,104.0,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,14,GTLM,4,Corvette Racing,Chevrolet Corvette C7.R,Oliver Gavin,51.341,14,72,2.091,0.320,103.3,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,15,GTLM,67,Ford Chip Ganassi Racing,Ford GT,Richard Westbrook,51.403,42,95,2.153,0.062,103.2,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,16,GTLM,67,Ford Chip Ganassi Racing,Ford GT,Ryan Briscoe,51.418,16,72,2.168,0.015,103.2,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,17,GTLM,66,Ford Chip Ganassi Racing,Ford GT,Dirk Mueller,51.446,11,72,2.196,0.028,103.1,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,18,GTLM,3,Corvette Racing,Chevrolet Corvette C7.R,Antonio Garcia,51.474,16,72,2.224,0.028,103.0,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,19,GTLM,62,Risi Competizione,Ferrari 488 GTE,Giancarlo Fisichella,51.479,14,72,2.229,0.005,103.0,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,20,GTLM,66,Ford Chip Ganassi Racing,Ford GT,Joey Hand,51.491,42,95,2.241,0.012,103.0,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,21,GTLM,62,Risi Competizione,Ferrari 488 GTE,Toni Vilander,51.518,40,95,2.268,0.027,103.0,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,22,GTLM,25,BMW Team RLL,BMW M6 GTLM,Dirk Werner,51.560,42,89,2.310,0.042,102.8,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,23,PC,85,JDC-Miller Motorsports,ORECA FLM09,Stephen Simpson,51.592,5,7,2.342,0.032,102.8,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,24,GTLM,4,Corvette Racing,Chevrolet Corvette C7.R,Tommy Milner,51.642,42,95,2.392,0.050,102.7,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,25,GTLM,912,Porsche North America,Porsche 911 RSR,Frederic Makowiecki,51.730,17,29,2.480,0.088,102.5,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,26,GTLM,3,Corvette Racing,Chevrolet Corvette C7.R,Jan Magnussen,51.759,40,95,2.509,0.029,102.5,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,27,GTLM,912,Porsche North America,Porsche 911 RSR,Earl Bamber,51.786,12,60,2.536,0.027,102.4,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,28,GTLM,911,Porsche North America,Porsche 911 RSR,Patrick Pilet,51.811,37,87,2.561,0.025,102.4,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,29,GTLM,911,Porsche North America,Porsche 911 RSR,Nick Tandy,51.922,14,72,2.672,0.111,102.2,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,30,GTD,96,Turner Motorsport,BMW M6 GT3,Jens Klingmann,52.831,5,114,3.581,0.909,100.4,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,31,GTD,63,Scuderia Corsa,Ferrari 488 GT3,Alessandro Balzan,53.062,5,66,3.812,0.231,99.9,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,32,PC,88,Starworks Motorsport,ORECA FLM09,Mark Kvamme,53.166,23,59,3.916,0.104,99.7,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,33,GTD,44,Magnus Racing,Audi R8 LMS GT3,Andy Lally,53.456,20,115,4.206,0.290,99.2,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,34,GTD,16,Change Racing,Lamborghini Huracan GT3,Spencer Pumpelly,53.547,37,97,4.297,0.091,99.1,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,35,GTD,97,Turner Motorsport,BMW M6 GT3,Markus Palttala,53.614,55,113,4.364,0.067,98.9,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,36,GTD,9,Stevenson Motorsports,Audi R8 LMS GT3,Lawson Aschenbach,53.631,9,68,4.381,0.017,98.9,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,37,GTD,73,Park Place Motorsports,Porsche 911 GT3 R,Jorg Bergmeister,53.664,45,73,4.414,0.033,98.8,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,38,GTD,23,Team Seattle / Alex Job Racing,Porsche 911 GT3 R,Alex Riberas,53.730,11,49,4.480,0.066,98.7,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,39,GTD,48,Paul Miller Racing,Lamborghini Huracan GT3,Bryan Sellers,53.788,9,68,4.538,0.058,98.6,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,40,GTD,6,Stevenson Motorsports,Audi R8 LMS GT3,Robin Liddell,53.788,12,69,4.538,0.000,98.6,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,41,GTLM,100,BMW Team RLL,BMW M6 GTLM,John Edwards,53.810,4,4,4.560,0.022,98.6,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,42,GTD,22,Alex Job Racing,Porsche 911 GT3 R,Leh Keen,53.828,6,82,4.578,0.018,98.6,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,43,GTD,27,Dream Racing,Lamborghini Huracan GT3,Cedric Sbirrazzuoli,53.854,22,156,4.604,0.026,98.5,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,44,GTD,23,Team Seattle / Alex Job Racing,Porsche 911 GT3 R,Mario Farnbacher,53.871,34,93,4.621,0.017,98.4,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,45,GTD,6,Stevenson Motorsports,Audi R8 LMS GT3,Andrew Davis,53.905,57,93,4.655,0.034,98.4,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,46,GTD,33,Riley Motorsports,Dodge Viper GT3-R,Jeroen Bleekemolen,53.926,13,68,4.676,0.021,98.4,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,47,GTD,9,Stevenson Motorsports,Audi R8 LMS GT3,Matt Bell,54.040,38,93,4.790,0.114,98.1,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,48,GTD,48,Paul Miller Racing,Lamborghini Huracan GT3,Madison Snow,54.061,37,93,4.811,0.021,98.1,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,49,GTD,33,Riley Motorsports,Dodge Viper GT3-R,Ben Keating,54.169,39,93,4.919,0.108,97.9,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,50,GTD,63,Scuderia Corsa,Ferrari 488 GT3,Christina Nielsen,54.236,48,94,4.986,0.067,97.8,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,51,GTD,96,Turner Motorsport,BMW M6 GT3,Bret Curtis,54.324,17,47,5.074,0.088,97.6,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,52,GTD,540,Black Swan Racing,Porsche 911 GT3 R,Andy Pilgrim,54.388,33,92,5.138,0.064,97.5,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,53,GTD,16,Change Racing,Lamborghini Huracan GT3,Corey Lewis,54.389,3,64,5.139,0.001,97.5,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,54,GTD,73,Park Place Motorsports,Porsche 911 GT3 R,Patrick Lindsey,54.482,52,87,5.232,0.093,97.3,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,55,GTD,97,Turner Motorsport,BMW M6 GT3,Michael Marsal,54.485,19,48,5.235,0.003,97.3,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,56,GTD,44,Magnus Racing,Audi R8 LMS GT3,John Potter,54.652,21,47,5.402,0.167,97.1,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,57,GTD,22,Alex Job Racing,Porsche 911 GT3 R,Cooper MacNeil,54.682,19,79,5.432,0.030,97.0,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,58,GTD,540,Black Swan Racing,Porsche 911 GT3 R,Timothy Pappas,55.377,13,68,6.127,0.695,95.8,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,59,PC,7,Starworks Motorsport,ORECA FLM09,Sean Rayhall,,,2,,,,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,60,GTD,27,Dream Racing,Lamborghini Huracan GT3,Lawrence DeGeorge,,,2,,,,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,61,GTLM,25,BMW Team RLL,BMW M6 GTLM,Bill Auberlen,,,,,,,07_ Driver Fastest Lap.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,62,GTLM,100,BMW Team RLL,BMW M6 GTLM,Lucas Luhr,,,,,,,07_ Driver Fastest Lap.PDF,1

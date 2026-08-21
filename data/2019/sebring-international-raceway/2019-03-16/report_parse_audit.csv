@@ -1,0 +1,19 @@
+year,event_code,event_name,track_slug,race_date,session_directory,table,check,status,value,detail
+2019,03_Sebring International Raceway,Sebring International Raceway,sebring-international-raceway,2019-03-16,201903161040_Race,results,rows,pass,38,
+2019,03_Sebring International Raceway,Sebring International Raceway,sebring-international-raceway,2019-03-16,201903161040_Race,results,positions,pass,38,"first=[1, 2, 3] last=[36, 37, 38]"
+2019,03_Sebring International Raceway,Sebring International Raceway,sebring-international-raceway,2019-03-16,201903161040_Race,results,car_numbers,pass,38,not in entries: []
+2019,03_Sebring International Raceway,Sebring International Raceway,sebring-international-raceway,2019-03-16,201903161040_Race,results,best_lap_time_card_match,pass,38/38,
+2019,03_Sebring International Raceway,Sebring International Raceway,sebring-international-raceway,2019-03-16,201903161040_Race,results,classified_laps_time_card_match,pass,38/38,official penalties and incomplete time cards can differ
+2019,03_Sebring International Raceway,Sebring International Raceway,sebring-international-raceway,2019-03-16,201903161040_Race,fastest_laps_by_driver,rows,pass,114,
+2019,03_Sebring International Raceway,Sebring International Raceway,sebring-international-raceway,2019-03-16,201903161040_Race,fastest_laps_by_driver,positions,pass,114,"first=[1, 2, 3] last=[112, 113, 114]"
+2019,03_Sebring International Raceway,Sebring International Raceway,sebring-international-raceway,2019-03-16,201903161040_Race,fastest_laps_by_driver,car_numbers,pass,38,not in entries: []
+2019,03_Sebring International Raceway,Sebring International Raceway,sebring-international-raceway,2019-03-16,201903161040_Race,fastest_laps_by_driver,time_card_lap_match,pass,114/114,
+2019,03_Sebring International Raceway,Sebring International Raceway,sebring-international-raceway,2019-03-16,201903161040_Race,fastest_laps_by_driver,time_card_driver_match,warn,112/114,
+2019,03_Sebring International Raceway,Sebring International Raceway,sebring-international-raceway,2019-03-16,201903161040_Race,drive_time,rows,pass,1152,
+2019,03_Sebring International Raceway,Sebring International Raceway,sebring-international-raceway,2019-03-16,201903161040_Race,drive_time,car_numbers,pass,38,not in entries: []
+2019,03_Sebring International Raceway,Sebring International Raceway,sebring-international-raceway,2019-03-16,201903161040_Race,drive_time,segment_continuity,pass,1114/1114,
+2019,03_Sebring International Raceway,Sebring International Raceway,sebring-international-raceway,2019-03-16,201903161040_Race,pit_stops,rows,pass,555,
+2019,03_Sebring International Raceway,Sebring International Raceway,sebring-international-raceway,2019-03-16,201903161040_Race,pit_stops,car_numbers,pass,38,not in entries: []
+2019,03_Sebring International Raceway,Sebring International Raceway,sebring-international-raceway,2019-03-16,201903161040_Race,pit_stops,clock_duration_match,pass,555/555,
+2019,03_Sebring International Raceway,Sebring International Raceway,sebring-international-raceway,2019-03-16,201903161040_Race,pit_stops,cumulative_duration_match,pass,555/555,
+2019,03_Sebring International Raceway,Sebring International Raceway,sebring-international-raceway,2019-03-16,201903161040_Race,flags_analysis,source,not_available,0,report not published for this race

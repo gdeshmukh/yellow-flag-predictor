@@ -1,0 +1,19 @@
+year,event_code,event_name,track_slug,race_date,session_directory,table,check,status,value,detail
+2017,14_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2017-07-09,201707091205_Race,results,rows,pass,36,
+2017,14_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2017-07-09,201707091205_Race,results,positions,pass,36,"first=[1, 2, 3] last=[34, 35, 36]"
+2017,14_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2017-07-09,201707091205_Race,results,car_numbers,pass,36,not in entries: []
+2017,14_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2017-07-09,201707091205_Race,results,best_lap_time_card_match,pass,36/36,
+2017,14_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2017-07-09,201707091205_Race,results,classified_laps_time_card_match,pass,36/36,official penalties and incomplete time cards can differ
+2017,14_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2017-07-09,201707091205_Race,fastest_laps_by_driver,rows,pass,72,
+2017,14_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2017-07-09,201707091205_Race,fastest_laps_by_driver,positions,pass,72,"first=[1, 2, 3] last=[70, 71, 72]"
+2017,14_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2017-07-09,201707091205_Race,fastest_laps_by_driver,car_numbers,pass,36,not in entries: []
+2017,14_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2017-07-09,201707091205_Race,fastest_laps_by_driver,time_card_lap_match,pass,72/72,
+2017,14_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2017-07-09,201707091205_Race,fastest_laps_by_driver,time_card_driver_match,pass,72/72,
+2017,14_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2017-07-09,201707091205_Race,drive_time,rows,pass,254,
+2017,14_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2017-07-09,201707091205_Race,drive_time,car_numbers,pass,36,not in entries: []
+2017,14_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2017-07-09,201707091205_Race,drive_time,segment_continuity,pass,218/218,
+2017,14_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2017-07-09,201707091205_Race,pit_stops,rows,pass,108,
+2017,14_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2017-07-09,201707091205_Race,pit_stops,car_numbers,pass,36,not in entries: []
+2017,14_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2017-07-09,201707091205_Race,pit_stops,clock_duration_match,pass,108/108,
+2017,14_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2017-07-09,201707091205_Race,pit_stops,cumulative_duration_match,pass,108/108,
+2017,14_Canadian Tire Motorsport Park,Canadian Tire Motorsport Park,canadian-tire-motorsport-park,2017-07-09,201707091205_Race,flags_analysis,source,not_available,0,report not published for this race

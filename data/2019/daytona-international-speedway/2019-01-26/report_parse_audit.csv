@@ -1,0 +1,19 @@
+year,event_code,event_name,track_slug,race_date,session_directory,table,check,status,value,detail
+2019,02_Daytona International Speedway,Daytona International Speedway,daytona-international-speedway,2019-01-26,201901261435_Race,results,rows,pass,47,
+2019,02_Daytona International Speedway,Daytona International Speedway,daytona-international-speedway,2019-01-26,201901261435_Race,results,positions,pass,47,"first=[1, 2, 3] last=[45, 46, 47]"
+2019,02_Daytona International Speedway,Daytona International Speedway,daytona-international-speedway,2019-01-26,201901261435_Race,results,car_numbers,pass,47,not in entries: []
+2019,02_Daytona International Speedway,Daytona International Speedway,daytona-international-speedway,2019-01-26,201901261435_Race,results,best_lap_time_card_match,pass,47/47,
+2019,02_Daytona International Speedway,Daytona International Speedway,daytona-international-speedway,2019-01-26,201901261435_Race,results,classified_laps_time_card_match,warn,46/47,official penalties and incomplete time cards can differ
+2019,02_Daytona International Speedway,Daytona International Speedway,daytona-international-speedway,2019-01-26,201901261435_Race,fastest_laps_by_driver,rows,pass,178,
+2019,02_Daytona International Speedway,Daytona International Speedway,daytona-international-speedway,2019-01-26,201901261435_Race,fastest_laps_by_driver,positions,pass,178,"first=[1, 2, 3] last=[176, 177, 178]"
+2019,02_Daytona International Speedway,Daytona International Speedway,daytona-international-speedway,2019-01-26,201901261435_Race,fastest_laps_by_driver,car_numbers,pass,47,not in entries: []
+2019,02_Daytona International Speedway,Daytona International Speedway,daytona-international-speedway,2019-01-26,201901261435_Race,fastest_laps_by_driver,time_card_lap_match,pass,175/175,
+2019,02_Daytona International Speedway,Daytona International Speedway,daytona-international-speedway,2019-01-26,201901261435_Race,fastest_laps_by_driver,time_card_driver_match,pass,175/175,
+2019,02_Daytona International Speedway,Daytona International Speedway,daytona-international-speedway,2019-01-26,201901261435_Race,drive_time,rows,pass,2551,
+2019,02_Daytona International Speedway,Daytona International Speedway,daytona-international-speedway,2019-01-26,201901261435_Race,drive_time,car_numbers,pass,47,not in entries: []
+2019,02_Daytona International Speedway,Daytona International Speedway,daytona-international-speedway,2019-01-26,201901261435_Race,drive_time,segment_continuity,pass,2504/2504,
+2019,02_Daytona International Speedway,Daytona International Speedway,daytona-international-speedway,2019-01-26,201901261435_Race,pit_stops,rows,pass,1228,
+2019,02_Daytona International Speedway,Daytona International Speedway,daytona-international-speedway,2019-01-26,201901261435_Race,pit_stops,car_numbers,pass,47,not in entries: []
+2019,02_Daytona International Speedway,Daytona International Speedway,daytona-international-speedway,2019-01-26,201901261435_Race,pit_stops,clock_duration_match,pass,1228/1228,
+2019,02_Daytona International Speedway,Daytona International Speedway,daytona-international-speedway,2019-01-26,201901261435_Race,pit_stops,cumulative_duration_match,pass,1228/1228,
+2019,02_Daytona International Speedway,Daytona International Speedway,daytona-international-speedway,2019-01-26,201901261435_Race,flags_analysis,source,not_available,0,report not published for this race

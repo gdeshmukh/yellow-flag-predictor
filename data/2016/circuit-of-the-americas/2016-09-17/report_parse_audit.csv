@@ -1,0 +1,19 @@
+year,event_code,event_name,track_slug,race_date,session_directory,table,check,status,value,detail
+2016,19_Circuit of the Americas,Circuit of the Americas,circuit-of-the-americas,2016-09-17,201609171135_Race,results,rows,pass,39,
+2016,19_Circuit of the Americas,Circuit of the Americas,circuit-of-the-americas,2016-09-17,201609171135_Race,results,positions,pass,39,"first=[1, 2, 3] last=[37, 38, 39]"
+2016,19_Circuit of the Americas,Circuit of the Americas,circuit-of-the-americas,2016-09-17,201609171135_Race,results,car_numbers,pass,39,not in entries: []
+2016,19_Circuit of the Americas,Circuit of the Americas,circuit-of-the-americas,2016-09-17,201609171135_Race,results,best_lap_time_card_match,pass,39/39,
+2016,19_Circuit of the Americas,Circuit of the Americas,circuit-of-the-americas,2016-09-17,201609171135_Race,results,classified_laps_time_card_match,pass,39/39,official penalties and incomplete time cards can differ
+2016,19_Circuit of the Americas,Circuit of the Americas,circuit-of-the-americas,2016-09-17,201609171135_Race,fastest_laps_by_driver,rows,pass,78,
+2016,19_Circuit of the Americas,Circuit of the Americas,circuit-of-the-americas,2016-09-17,201609171135_Race,fastest_laps_by_driver,positions,pass,78,"first=[1, 2, 3] last=[76, 77, 78]"
+2016,19_Circuit of the Americas,Circuit of the Americas,circuit-of-the-americas,2016-09-17,201609171135_Race,fastest_laps_by_driver,car_numbers,pass,39,not in entries: []
+2016,19_Circuit of the Americas,Circuit of the Americas,circuit-of-the-americas,2016-09-17,201609171135_Race,fastest_laps_by_driver,time_card_lap_match,pass,78/78,
+2016,19_Circuit of the Americas,Circuit of the Americas,circuit-of-the-americas,2016-09-17,201609171135_Race,fastest_laps_by_driver,time_card_driver_match,pass,78/78,
+2016,19_Circuit of the Americas,Circuit of the Americas,circuit-of-the-americas,2016-09-17,201609171135_Race,drive_time,rows,pass,255,
+2016,19_Circuit of the Americas,Circuit of the Americas,circuit-of-the-americas,2016-09-17,201609171135_Race,drive_time,car_numbers,pass,38,not in entries: []
+2016,19_Circuit of the Americas,Circuit of the Americas,circuit-of-the-americas,2016-09-17,201609171135_Race,drive_time,segment_continuity,warn,201/217,
+2016,19_Circuit of the Americas,Circuit of the Americas,circuit-of-the-americas,2016-09-17,201609171135_Race,pit_stops,rows,pass,106,
+2016,19_Circuit of the Americas,Circuit of the Americas,circuit-of-the-americas,2016-09-17,201609171135_Race,pit_stops,car_numbers,pass,38,not in entries: []
+2016,19_Circuit of the Americas,Circuit of the Americas,circuit-of-the-americas,2016-09-17,201609171135_Race,pit_stops,clock_duration_match,pass,106/106,
+2016,19_Circuit of the Americas,Circuit of the Americas,circuit-of-the-americas,2016-09-17,201609171135_Race,pit_stops,cumulative_duration_match,warn,101/106,
+2016,19_Circuit of the Americas,Circuit of the Americas,circuit-of-the-americas,2016-09-17,201609171135_Race,flags_analysis,source,not_available,0,report not published for this race

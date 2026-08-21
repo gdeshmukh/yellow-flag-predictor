@@ -1,0 +1,118 @@
+year,event_code,event_name,track_slug,race_date,session_directory,position,class,car_number,team,vehicle,driver,fastest_lap_time,driver_lap_number,driver_total_laps,gap_to_fastest,interval,speed_mph,source_report,source_page
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,1,P,22,Tequila Patron ESM,Nissan DPi,Luis Felipe Derani,1:12.563,112,122,,,126.014,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,2,P,2,Tequila Patron ESM,Nissan DPi,Brendon Hartley,1:12.612,108,187,0.049,0.049,125.929,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,3,P,22,Tequila Patron ESM,Nissan DPi,Bruno Senna,1:12.847,48,188,0.284,0.235,125.523,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,4,P,13,Rebellion Racing,ORECA LMP2,Gustavo Menezes,1:12.962,5,86,0.399,0.115,125.325,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,5,P,31,Whelen Engineering Racing,Cadillac DPi,Michael Conway,1:12.966,65,154,0.403,0.004,125.318,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,6,P,2,Tequila Patron ESM,Nissan DPi,Ryan Dalziel,1:12.975,31,148,0.412,0.009,125.303,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,7,P,31,Whelen Engineering Racing,Cadillac DPi,Dane Cameron,1:13.014,16,105,0.451,0.039,125.236,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,8,P,5,Mustang Sampling Racing,Cadillac DPi,Filipe Albuquerque,1:13.076,77,143,0.513,0.062,125.129,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,9,P,5,Mustang Sampling Racing,Cadillac DPi,Joao Barbosa,1:13.078,62,141,0.515,0.002,125.126,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,10,P,10,Konica Minolta Cadillac DPi-V.R,Cadillac DPi,Ricky Taylor,1:13.102,41,91,0.539,0.024,125.085,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,11,P,6,Team Penske,ORECA LMP2,Juan Pablo Montoya,1:13.115,152,166,0.552,0.013,125.063,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,12,P,6,Team Penske,ORECA LMP2,Helio Castroneves,1:13.141,124,148,0.578,0.026,125.018,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,13,P,85,JDC-Miller Motorsports,ORECA LMP2,Stephen Simpson,1:13.241,61,137,0.678,0.100,124.848,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,14,P,85,JDC-Miller Motorsports,ORECA LMP2,Chris Miller,1:13.305,109,141,0.742,0.064,124.739,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,15,P,31,Whelen Engineering Racing,Cadillac DPi,Eric Curran,1:13.360,62,143,0.797,0.055,124.645,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,16,P,13,Rebellion Racing,ORECA LMP2,Nick Heidfeld,1:13.437,26,31,0.874,0.077,124.514,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,17,P,90,Visit Florida Racing,Ligier LMP2,Renger Van Der Zande,1:13.445,48,132,0.882,0.008,124.501,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,18,P,52,PR1/Mathiasen Motorsports,Ligier LMP2,Olivier Pla,1:13.476,20,40,0.913,0.031,124.448,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,19,P,2,Tequila Patron ESM,Nissan DPi,Scott Sharp,1:13.524,56,67,0.961,0.048,124.367,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,20,P,13,Rebellion Racing,ORECA LMP2,Mathias Beche,1:13.558,81,88,0.995,0.034,124.310,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,21,P,6,Team Penske,ORECA LMP2,Simon Pagenaud,1:13.598,16,88,1.035,0.040,124.242,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,22,P,90,Visit Florida Racing,Ligier LMP2,Jonathan Bomarito,1:13.606,64,88,1.043,0.008,124.228,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,23,P,5,Mustang Sampling Racing,Cadillac DPi,Christian Fittipaldi,1:13.678,64,117,1.115,0.072,124.107,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,24,P,90,Visit Florida Racing,Ligier LMP2,Marc Goossens,1:13.716,87,160,1.153,0.038,124.043,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,25,P,22,Tequila Patron ESM,Nissan DPi,Johannes van Overbeek,1:13.754,51,92,1.191,0.038,123.979,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,26,P,85,JDC-Miller Motorsports,ORECA LMP2,Misha Goikhberg,1:13.844,30,121,1.281,0.090,123.828,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,27,P,52,PR1/Mathiasen Motorsports,Ligier LMP2,Jose Gutierrez,1:14.360,22,22,1.797,0.516,122.969,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,28,P,10,Konica Minolta Cadillac DPi-V.R,Cadillac DPi,Ryan Hunter-Reay,1:15.501,2,6,2.938,1.141,121.110,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,29,PC,38,Performance Tech Motorsports,ORECA FLM09,Patricio O'Ward,1:16.137,44,151,3.574,0.636,120.099,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,30,PC,38,Performance Tech Motorsports,ORECA FLM09,James French,1:16.683,74,137,4.120,0.546,119.244,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,31,PC,20,BAR1 Motorsports,ORECA FLM09,Daniel Burkett,1:17.067,68,141,4.504,0.384,118.649,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,32,PC,38,Performance Tech Motorsports,ORECA FLM09,Kyle Masson,1:17.248,63,79,4.685,0.181,118.371,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,33,PC,26,BAR1 Motorsports,ORECA FLM09,Garett Grist,1:17.341,57,145,4.778,0.093,118.229,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,34,PC,20,BAR1 Motorsports,ORECA FLM09,Buddy Rice,1:17.939,13,110,5.376,0.598,117.322,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,35,GTLM,62,Risi Competizione,Ferrari 488 GTE,Alessandro Pier Guidi,1:18.431,53,132,5.868,0.492,116.586,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,36,GTLM,25,BMW Team RLL,BMW M6 GTLM,Alexander Sims,1:18.466,21,162,5.903,0.035,116.534,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,37,GTLM,62,Risi Competizione,Ferrari 488 GTE,Giancarlo Fisichella,1:18.481,100,137,5.918,0.015,116.512,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,38,GTLM,24,BMW Team RLL,BMW M6 GTLM,John Edwards,1:18.491,86,122,5.928,0.010,116.497,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,39,GTLM,3,Corvette Racing,Chevrolet Corvette C7.R,Antonio Garcia,1:18.532,77,227,5.969,0.041,116.436,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,40,PC,20,BAR1 Motorsports,ORECA FLM09,Don Yount,1:18.546,74,125,5.983,0.014,116.415,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,41,GTLM,67,Ford Chip Ganassi Racing,Ford GT,Richard Westbrook,1:18.558,81,145,5.995,0.012,116.398,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,42,GTLM,25,BMW Team RLL,BMW M6 GTLM,Bill Auberlen,1:18.558,73,183,5.995,0.000,116.398,07_ Driver Fastest Lap.PDF,1
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,43,GTLM,911,Porsche GT Team,Porsche 911 RSR,Nick Tandy,1:18.588,29,172,6.025,0.030,116.353,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,44,GTLM,66,Ford Chip Ganassi Racing,Ford GT,Joey Hand,1:18.612,79,193,6.049,0.024,116.318,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,45,PC,26,BAR1 Motorsports,ORECA FLM09,John Falb,1:18.614,24,140,6.051,0.002,116.315,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,46,GTLM,912,Porsche GT Team,Porsche 911 RSR,Earl Bamber,1:18.621,36,91,6.058,0.007,116.304,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,47,GTLM,4,Corvette Racing,Chevrolet Corvette C7.R,Oliver Gavin,1:18.663,84,118,6.100,0.042,116.242,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,48,GTLM,66,Ford Chip Ganassi Racing,Ford GT,Dirk Mueller,1:18.664,42,149,6.101,0.001,116.241,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,49,GTLM,3,Corvette Racing,Chevrolet Corvette C7.R,Jan Magnussen,1:18.688,12,101,6.125,0.024,116.205,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,50,GTLM,66,Ford Chip Ganassi Racing,Ford GT,Sebastien Bourdais,1:18.697,21,50,6.134,0.009,116.192,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,51,GTLM,912,Porsche GT Team,Porsche 911 RSR,Laurens Vanthoor,1:18.712,92,151,6.149,0.015,116.170,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,52,GTLM,3,Corvette Racing,Chevrolet Corvette C7.R,Mike Rockenfeller,1:18.723,31,64,6.160,0.011,116.154,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,53,GTLM,911,Porsche GT Team,Porsche 911 RSR,Patrick Pilet,1:18.724,77,170,6.161,0.001,116.152,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,54,GTLM,912,Porsche GT Team,Porsche 911 RSR,Gianmaria Bruni,1:18.724,71,150,6.161,0.000,116.152,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,55,GTLM,24,BMW Team RLL,BMW M6 GTLM,Martin Tomczyk,1:18.788,77,154,6.225,0.064,116.058,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,56,GTLM,67,Ford Chip Ganassi Racing,Ford GT,Ryan Briscoe,1:18.801,101,153,6.238,0.013,116.039,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,57,GTLM,4,Corvette Racing,Chevrolet Corvette C7.R,Tommy Milner,1:18.833,75,189,6.270,0.032,115.992,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,58,GTLM,4,Corvette Racing,Chevrolet Corvette C7.R,Marcel Fassler,1:18.850,36,85,6.287,0.017,115.966,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,59,GTLM,25,BMW Team RLL,BMW M6 GTLM,Kuno Wittmer,1:18.908,32,47,6.345,0.058,115.881,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,60,GTLM,62,Risi Competizione,Ferrari 488 GTE,Toni Vilander,1:18.910,57,123,6.347,0.002,115.878,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,61,GTLM,24,BMW Team RLL,BMW M6 GTLM,Nicky Catsburg,1:19.057,7,62,6.494,0.147,115.663,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,62,GTLM,67,Ford Chip Ganassi Racing,Ford GT,Scott Dixon,1:19.177,75,92,6.614,0.120,115.488,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,63,PC,26,BAR1 Motorsports,ORECA FLM09,Tomy Drissi,1:19.272,32,99,6.709,0.095,115.349,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,64,GTLM,911,Porsche GT Team,Porsche 911 RSR,Dirk Werner,1:19.695,39,50,7.132,0.423,114.737,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,65,GTD,29,Montaplast by Land-Motorsport,Audi R8 LMS GT3,Connor De Phillippi,1:21.148,25,162,8.585,1.453,112.682,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,66,GTD,29,Montaplast by Land-Motorsport,Audi R8 LMS GT3,Sheldon van der Linde,1:21.180,116,136,8.617,0.032,112.638,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,67,GTD,93,Michael Shank Racing w/ Curb-Agajanian,Acura NSX GT3,Andy Lally,1:21.184,71,92,8.621,0.004,112.633,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,68,GTD,63,Scuderia Corsa,Ferrari 488 GT3,Matteo Cressoni,1:21.197,96,131,8.634,0.013,112.614,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,69,GTD,48,Paul Miller Racing,Lamborghini Huracan GT3,Bryan Sellers,1:21.303,15,141,8.740,0.106,112.468,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,70,GTD,96,Turner Motorsport,BMW M6 GT3,Jesse Krohn,1:21.355,66,112,8.792,0.052,112.396,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,71,GTD,63,Scuderia Corsa,Ferrari 488 GT3,Alessandro Balzan,1:21.358,92,139,8.795,0.003,112.392,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,72,GTD,93,Michael Shank Racing w/ Curb-Agajanian,Acura NSX GT3,Katherine Legge,1:21.404,40,70,8.841,0.046,112.328,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,73,GTD,48,Paul Miller Racing,Lamborghini Huracan GT3,Madison Snow,1:21.472,25,152,8.909,0.068,112.234,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,74,GTD,73,Park Place Motorsports,Porsche 911 GT3 R,Joerg Bergmeister,1:21.478,50,121,8.915,0.006,112.226,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,75,GTD,57,Stevenson Motorsports,Audi R8 LMS GT3,Lawson Aschenbach,1:21.491,14,71,8.928,0.013,112.208,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,76,GTD,29,Montaplast by Land-Motorsport,Audi R8 LMS GT3,Christopher Mies,1:21.526,47,84,8.963,0.035,112.160,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,77,GTD,33,Riley Motorsports - Team AMG,Mercedes-AMG GT3,Jeroen Bleekemolen,1:21.530,35,147,8.967,0.004,112.155,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,78,GTD,86,Michael Shank Racing w/ Curb-Agajanian,Acura NSX GT3,Oswaldo Negri Jr.,1:21.584,28,126,9.021,0.054,112.080,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,79,GTD,93,Michael Shank Racing w/ Curb-Agajanian,Acura NSX GT3,Mark Wilkins,1:21.587,29,57,9.024,0.003,112.076,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,80,GTD,15,3GT Racing,Lexus RCF GT3,Jack Hawksworth,1:21.616,73,167,9.053,0.029,112.036,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,81,GTD,86,Michael Shank Racing w/ Curb-Agajanian,Acura NSX GT3,Jeff Segal,1:21.639,11,77,9.076,0.023,112.005,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,82,GTD,28,Alegra Motorsports,Porsche 911 GT3 R,Michael Christensen,1:21.689,97,144,9.126,0.050,111.936,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,83,GTD,57,Stevenson Motorsports,Audi R8 LMS GT3,Andrew Davis,1:21.758,90,100,9.195,0.069,111.842,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,84,GTD,96,Turner Motorsport,BMW M6 GT3,Justin Marks,1:21.772,65,83,9.209,0.014,111.823,07_ Driver Fastest Lap.PDF,2
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,85,GTD,16,Change Racing,Lamborghini Huracan GT3,Jeroen Mul,1:21.776,44,138,9.213,0.004,111.817,07_ Driver Fastest Lap.PDF,3
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,86,GTD,28,Alegra Motorsports,Porsche 911 GT3 R,Daniel Morad,1:21.839,80,152,9.276,0.063,111.731,07_ Driver Fastest Lap.PDF,3
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,87,GTD,33,Riley Motorsports - Team AMG,Mercedes-AMG GT3,Mario Farnbacher,1:21.839,25,138,9.276,0.000,111.731,07_ Driver Fastest Lap.PDF,3
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,88,GTD,54,CORE autosport,Porsche 911 GT3 R,Colin Braun,1:21.888,96,133,9.325,0.049,111.664,07_ Driver Fastest Lap.PDF,3
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,89,GTD,14,3GT Racing,Lexus RCF GT3,Sage Karam,1:21.895,32,92,9.332,0.007,111.655,07_ Driver Fastest Lap.PDF,3
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,90,GTD,73,Park Place Motorsports,Porsche 911 GT3 R,Patrick Lindsey,1:22.001,63,134,9.438,0.106,111.510,07_ Driver Fastest Lap.PDF,3
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,91,GTD,16,Change Racing,Lamborghini Huracan GT3,Corey Lewis,1:22.022,5,82,9.459,0.021,111.482,07_ Driver Fastest Lap.PDF,3
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,92,GTD,96,Turner Motorsport,BMW M6 GT3,Jens Klingmann,1:22.065,12,18,9.502,0.043,111.423,07_ Driver Fastest Lap.PDF,3
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,93,GTD,14,3GT Racing,Lexus RCF GT3,Robert Alon,1:22.102,71,92,9.539,0.037,111.373,07_ Driver Fastest Lap.PDF,3
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,94,GTD,63,Scuderia Corsa,Ferrari 488 GT3,Christina Nielsen,1:22.120,51,79,9.557,0.018,111.349,07_ Driver Fastest Lap.PDF,3
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,95,GTD,23,Alex Job Racing,Audi R8 LMS GT3,Townsend Bell,1:22.141,39,147,9.578,0.021,111.320,07_ Driver Fastest Lap.PDF,3
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,96,GTD,86,Michael Shank Racing w/ Curb-Agajanian,Acura NSX GT3,Tom Dyer,1:22.164,55,89,9.601,0.023,111.289,07_ Driver Fastest Lap.PDF,3
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,97,GTD,75,SunEnergy1 Racing,Mercedes-AMG GT3,Tristan Vautier,1:22.181,16,43,9.618,0.017,111.266,07_ Driver Fastest Lap.PDF,3
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,98,GTD,48,Paul Miller Racing,Lamborghini Huracan GT3,Trent Hindman,1:22.203,44,82,9.640,0.022,111.236,07_ Driver Fastest Lap.PDF,3
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,99,GTD,73,Park Place Motorsports,Porsche 911 GT3 R,Matthew McMurry,1:22.204,81,127,9.641,0.001,111.235,07_ Driver Fastest Lap.PDF,3
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,100,GTD,15,3GT Racing,Lexus RCF GT3,Austin Cindric,1:22.215,4,120,9.652,0.011,111.220,07_ Driver Fastest Lap.PDF,3
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,101,GTD,23,Alex Job Racing,Audi R8 LMS GT3,Frank Montecalvo,1:22.294,6,150,9.731,0.079,111.113,07_ Driver Fastest Lap.PDF,3
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,102,GTD,57,Stevenson Motorsports,Audi R8 LMS GT3,Matt Bell,1:22.331,5,58,9.768,0.037,111.063,07_ Driver Fastest Lap.PDF,3
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,103,GTD,14,3GT Racing,Lexus RCF GT3,Ian James,1:22.403,97,124,9.840,0.072,110.966,07_ Driver Fastest Lap.PDF,3
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,104,GTD,16,Change Racing,Lamborghini Huracan GT3,Brett Sandberg,1:22.451,6,80,9.888,0.048,110.902,07_ Driver Fastest Lap.PDF,3
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,105,GTD,28,Alegra Motorsports,Porsche 911 GT3 R,Michael de Quesada,1:22.480,24,86,9.917,0.029,110.863,07_ Driver Fastest Lap.PDF,3
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,106,GTD,54,CORE autosport,Porsche 911 GT3 R,Nic Jonsson,1:22.587,15,166,10.024,0.107,110.719,07_ Driver Fastest Lap.PDF,3
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,107,GTD,75,SunEnergy1 Racing,Mercedes-AMG GT3,Dion von Moltke,1:22.626,24,88,10.063,0.039,110.667,07_ Driver Fastest Lap.PDF,3
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,108,GTD,33,Riley Motorsports - Team AMG,Mercedes-AMG GT3,Ben Keating,1:22.740,85,96,10.177,0.114,110.514,07_ Driver Fastest Lap.PDF,3
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,109,GTD,15,3GT Racing,Lexus RCF GT3,Scott Pruett,1:22.795,8,77,10.232,0.055,110.441,07_ Driver Fastest Lap.PDF,3
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,110,GTD,23,Alex Job Racing,Audi R8 LMS GT3,Bill Sweedler,1:22.920,29,83,10.357,0.125,110.274,07_ Driver Fastest Lap.PDF,3
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,111,GTD,75,SunEnergy1 Racing,Mercedes-AMG GT3,Kenny Habul,1:23.182,62,79,10.619,0.262,109.927,07_ Driver Fastest Lap.PDF,3
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,112,GTD,54,CORE autosport,Porsche 911 GT3 R,Jonathan Bennett,1:24.198,53,81,11.635,1.016,108.601,07_ Driver Fastest Lap.PDF,3
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,113,GTD,50,Riley Motorsports - WeatherTech Racing,Porsche 911 GT3 R,Cooper MacNeil,1:28.684,10,15,16.121,4.486,103.107,07_ Driver Fastest Lap.PDF,3
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,114,P,10,Konica Minolta Cadillac DPi-V.R,Cadillac DPi,Jordan Taylor,,,,,,0.000,07_ Driver Fastest Lap.PDF,3
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,115,GTD,50,Riley Motorsports - WeatherTech Racing,Porsche 911 GT3 R,Patrick Long,,,,,,0.000,07_ Driver Fastest Lap.PDF,3
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,116,GTD,50,Riley Motorsports - WeatherTech Racing,Porsche 911 GT3 R,Gunnar Jeannette,,,,,,0.000,07_ Driver Fastest Lap.PDF,3
+2017,25_Road Atlanta,Road Atlanta,road-atlanta,2017-10-07,201710071105_Race,117,P,52,PR1/Mathiasen Motorsports,Ligier LMP2,Julien Canal,,,,,,0.000,07_ Driver Fastest Lap.PDF,3

@@ -1,0 +1,19 @@
+year,event_code,event_name,track_slug,race_date,session_directory,table,check,status,value,detail
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,results,rows,pass,31,
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,results,positions,pass,31,"first=[1, 2, 3] last=[29, 30, 31]"
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,results,car_numbers,pass,31,not in entries: []
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,results,best_lap_time_card_match,pass,31/31,
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,results,classified_laps_time_card_match,pass,31/31,official penalties and incomplete time cards can differ
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,fastest_laps_by_driver,rows,pass,62,
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,fastest_laps_by_driver,positions,pass,62,"first=[1, 2, 3] last=[60, 61, 62]"
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,fastest_laps_by_driver,car_numbers,pass,31,not in entries: []
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,fastest_laps_by_driver,time_card_lap_match,pass,58/58,
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,fastest_laps_by_driver,time_card_driver_match,pass,58/58,
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,drive_time,rows,pass,188,
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,drive_time,car_numbers,pass,31,not in entries: []
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,drive_time,segment_continuity,pass,157/157,
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,pit_stops,rows,pass,76,
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,pit_stops,car_numbers,pass,30,not in entries: []
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,pit_stops,clock_duration_match,pass,76/76,
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,pit_stops,cumulative_duration_match,pass,76/76,
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,flags_analysis,source,not_available,0,report not published for this race

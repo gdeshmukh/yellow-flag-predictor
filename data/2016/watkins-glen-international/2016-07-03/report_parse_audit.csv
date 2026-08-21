@@ -1,0 +1,16 @@
+year,event_code,event_name,track_slug,race_date,session_directory,table,check,status,value,detail
+2016,10_Watkins Glen International,Watkins Glen International,watkins-glen-international,2016-07-03,201607031010_Race,results,source,not_available,0,report not published for this race
+2016,10_Watkins Glen International,Watkins Glen International,watkins-glen-international,2016-07-03,201607031010_Race,results_by_class,rows,pass,39,
+2016,10_Watkins Glen International,Watkins Glen International,watkins-glen-international,2016-07-03,201607031010_Race,results_by_class,class_positions,pass,4,"GTD:[1, 2, 3]...[11, 12, 13]; GTLM:[1, 2, 3]...[8, 9, 10]; P:[1, 2, 3]...[7, 8, 9]; PC:[1, 2, 3]...[5, 6, 7]"
+2016,10_Watkins Glen International,Watkins Glen International,watkins-glen-international,2016-07-03,201607031010_Race,results_by_class,car_numbers,pass,39,not in entries: []
+2016,10_Watkins Glen International,Watkins Glen International,watkins-glen-international,2016-07-03,201607031010_Race,results_by_class,best_lap_time_card_match,pass,39/39,
+2016,10_Watkins Glen International,Watkins Glen International,watkins-glen-international,2016-07-03,201607031010_Race,results_by_class,classified_laps_time_card_match,pass,39/39,official penalties and incomplete time cards can differ
+2016,10_Watkins Glen International,Watkins Glen International,watkins-glen-international,2016-07-03,201607031010_Race,fastest_laps_by_driver,source,not_available,0,report not published for this race
+2016,10_Watkins Glen International,Watkins Glen International,watkins-glen-international,2016-07-03,201607031010_Race,drive_time,rows,pass,581,
+2016,10_Watkins Glen International,Watkins Glen International,watkins-glen-international,2016-07-03,201607031010_Race,drive_time,car_numbers,pass,39,not in entries: []
+2016,10_Watkins Glen International,Watkins Glen International,watkins-glen-international,2016-07-03,201607031010_Race,drive_time,segment_continuity,pass,542/542,
+2016,10_Watkins Glen International,Watkins Glen International,watkins-glen-international,2016-07-03,201607031010_Race,pit_stops,rows,pass,268,
+2016,10_Watkins Glen International,Watkins Glen International,watkins-glen-international,2016-07-03,201607031010_Race,pit_stops,car_numbers,pass,38,not in entries: []
+2016,10_Watkins Glen International,Watkins Glen International,watkins-glen-international,2016-07-03,201607031010_Race,pit_stops,clock_duration_match,pass,268/268,
+2016,10_Watkins Glen International,Watkins Glen International,watkins-glen-international,2016-07-03,201607031010_Race,pit_stops,cumulative_duration_match,pass,268/268,
+2016,10_Watkins Glen International,Watkins Glen International,watkins-glen-international,2016-07-03,201607031010_Race,flags_analysis,source,not_available,0,report not published for this race
