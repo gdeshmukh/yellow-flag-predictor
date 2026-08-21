@@ -25,26 +25,22 @@ trained probability model.
 
 The source archive is [Al Kamel's IMSA timing results](https://imsa.results.alkamelcloud.com/).
 The dataset covers 118 WeatherTech SportsCar Championship races from 2016
-through the available 2026 season. Because the archive layout changes between
-seasons, `data/imsa_pdf_catalog.csv` records every discovered final-release PDF
-and its exact source URL. Tests, the Roar, and per-hour summary reports are not
-part of the parsed dataset; endurance events use the highest published `Hour N`
-release.
+through the available 2026 season. Tests, the Roar, and per-hour summary reports
+are not part of the parsed dataset; endurance events use the highest published
+`Hour N` release.
 
-The repository tracks the parsed CSVs and validation manifests. The 2,641
-source PDFs remain available locally under each race's ignored `pdfs/`
-directory for manual cross-checks, but are not required after parsing.
+The repository tracks only analysis-ready race and timing CSVs. The 2,641 source
+PDFs remain available locally under each race's ignored `pdfs/` directory for
+manual cross-checks, but are not required after parsing.
 
 ```text
 data/
-  imsa_pdf_catalog.csv
   <year>/
     <track>/
       <race-date>/
         pdfs/
         analysis_by_lap.csv
         time_cards.csv
-        entries.csv
         results.csv
         results_by_class.csv
         fastest_laps_by_driver.csv
@@ -52,9 +48,6 @@ data/
         drive_time_totals.csv
         pit_stops.csv
         flags_analysis.csv
-        sources.csv
-        parse_audit.csv
-        report_parse_audit.csv
 ```
 
 The race directory prevents collisions when the championship visits one track
@@ -66,10 +59,11 @@ endurance Drive Time reports use the totals-only schema in
 `drive_time_totals.csv`.
 
 Values are preserved as printed, including report inconsistencies. Structural
-extraction failures block a table, while cross-report disagreements remain as
-warnings in the audit CSVs. Weather reports are vector graphs and are retained
-as PDFs without guessed CSV values. Starting grids, leader sequences, fastest
-lap sequences, and hourly reports are intentionally excluded.
+extraction failures block a table, while cross-report disagreements are checked
+before publishing. Weather reports are vector graphs and are retained as PDFs
+without guessed CSV values. Starting grids, leader sequences, fastest lap
+sequences, support manifests, audits, and hourly reports are intentionally
+excluded.
 
 The rebuild tools are maintained separately in the private
 `gdeshmukh/imsa-pdf-pipeline` repository. No consolidated lap table is included
