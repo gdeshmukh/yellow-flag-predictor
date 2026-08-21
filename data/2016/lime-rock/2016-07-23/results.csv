@@ -1,0 +1,32 @@
+year,event_code,event_name,track_slug,race_date,session_directory,position,class_position,car_number,class,category_marker,drivers,team,vehicle,laps,total_time,gap_to_leader,interval,status,best_lap_number,best_lap_time,best_lap_speed_mph,source_report,source_page
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,1,1,8,PC,,R. van der Zande / A. Popow,Starworks Motorsport,ORECA FLM09,169,2:40:43.254,-,,,62,49.250,107.7,03_Results.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,2,2,52,PC,,R. Alon / T. Kimber-Smith,PR1/Mathiasen Motorsports,ORECA FLM09,169,2:40:44.069,0.815,,,39,49.438,107.3,03_Results.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,3,3,38,PC,,J. French / K. Marcelli,Performance Tech Motorsports,ORECA FLM09,168,2:40:46.131,1 Lap,1,,81,49.823,106.5,03_Results.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,4,4,20,PC,,M. McMurry / J. Mowlem,BAR1 Motorsports,ORECA FLM09,168,2:40:53.478,1 Lap,,,40,49.988,106.1,03_Results.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,5,1,4,GTLM,,O. Gavin / T. Milner,Corvette Racing,Chevrolet Corvette C7.R,167,2:41:03.007,2 Laps,1,,109,51.341,103.3,03_Results.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,6,2,3,GTLM,,A. Garcia / J. Magnussen,Corvette Racing,Chevrolet Corvette C7.R,167,2:41:03.982,2 Laps,,,111,51.474,103.0,03_Results.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,7,3,67,GTLM,,R. Briscoe / R. Westbrook,Ford Chip Ganassi Racing,Ford GT,167,2:41:04.754,2 Laps,,,42,51.403,103.2,03_Results.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,8,4,62,GTLM,,G. Fisichella / T. Vilander,Risi Competizione,Ferrari 488 GTE,167,2:41:15.778,2 Laps,11.024,,109,51.479,103.0,03_Results.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,9,5,66,GTLM,,J. Hand / D. Mueller,Ford Chip Ganassi Racing,Ford GT,167,2:41:33.526,2 Laps,17.748,,106,51.446,103.1,03_Results.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,10,5,88,PC,,M. Kvamme / R. Ruscitti,Starworks Motorsport,ORECA FLM09,165,2:40:59.558,4 Laps,2,,64,50.061,105.9,03_Results.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,11,1,44,GTD,,J. Potter / A. Lally,Magnus Racing,Audi R8 LMS GT3,162,2:41:25.121,7 Laps,3,,67,53.456,99.2,03_Results.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,12,2,6,GTD,,R. Liddell / A. Davis,Stevenson Motorsports,Audi R8 LMS GT3,162,2:41:26.053,7 Laps,,,105,53.788,98.6,03_Results.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,13,3,33,GTD,,B. Keating / J. Bleekemolen,Riley Motorsports,Dodge Viper GT3-R,161,2:40:52.161,8 Laps,1,,106,53.926,98.4,03_Results.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,14,4,48,GTD,,B. Sellers / M. Snow,Paul Miller Racing,Lamborghini Huracan GT3,161,2:40:53.158,8 Laps,,,102,53.788,98.6,03_Results.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,15,5,9,GTD,,L. Aschenbach / M. Bell,Stevenson Motorsports,Audi R8 LMS GT3,161,2:40:53.509,8 Laps,,,102,53.631,98.9,03_Results.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,16,6,96,GTD,,B. Curtis / J. Klingmann,Turner Motorsport,BMW M6 GT3,161,2:40:55.051,8 Laps,,,52,52.831,100.4,03_Results.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,17,7,97,GTD,,M. Marsal / M. Palttala,Turner Motorsport,BMW M6 GT3,161,2:40:58.183,8 Laps,,,103,53.614,98.9,03_Results.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,18,8,16,GTD,,C. Lewis / S. Pumpelly,Change Racing,Lamborghini Huracan GT3,161,2:41:11.093,8 Laps,12.910,,101,53.547,99.0,03_Results.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,19,9,22,GTD,,C. MacNeil / L. Keen,Alex Job Racing,Porsche 911 GT3 R,161,2:41:21.100,8 Laps,10.007,,85,53.828,98.5,03_Results.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,20,10,73,GTD,,P. Lindsey / J. Bergmeister,Park Place Motorsports,Porsche 911 GT3 R,160,2:40:55.857,9 Laps,1,,132,53.664,98.8,03_Results.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,21,11,63,GTD,,C. Nielsen / A. Balzan,Scuderia Corsa,Ferrari 488 GT3,160,2:40:56.540,9 Laps,,,99,53.062,100.0,03_Results.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,22,12,540,GTD,,T. Pappas / A. Pilgrim,Black Swan Racing,Porsche 911 GT3 R,160,2:41:24.184,9 Laps,27.644,,101,54.388,97.5,03_Results.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,23,6,911,GTLM,,P. Pilet / N. Tandy,Porsche North America,Porsche 911 RSR,159,2:41:28.855,10 Laps,1,,37,51.811,102.4,03_Results.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,24,13,27,GTD,,L. DeGeorge / C. Sbirrazzuoli,Dream Racing,Lamborghini Huracan GT3,158,2:40:58.384,11 Laps,1,,24,53.854,98.5,03_Results.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,25,14,23,GTD,,M. Farnbacher / A. Riberas,Team Seattle / Alex Job Racing,Porsche 911 GT3 R,142,2:25:37.098,27 Laps,16,Not Running,104,53.730,98.7,03_Results.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,26,6,85,PC,,M. Goikhberg / S. Simpson,JDC-Miller Motorsports,ORECA FLM09,108,2:20:47.525,61 Laps,34,Not Running,71,50.306,105.4,03_Results.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,27,7,7,PC,,J. Gutierrez / S. Rayhall,Starworks Motorsport,ORECA FLM09,100,1:51:12.294,69 Laps,8,Not Running,20,50.061,105.9,03_Results.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,28,7,25,GTLM,,B. Auberlen / D. Werner,BMW Team RLL,BMW M6 GTLM,89,1:27:40.663,80 Laps,11,Not Running,42,51.560,102.9,03_Results.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,29,8,912,GTLM,,E. Bamber / F. Makowiecki,Porsche North America,Porsche 911 RSR,89,1:27:41.261,80 Laps,,Not Running,17,51.730,102.5,03_Results.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,30,8,54,PC,,J. Bennett / C. Braun,CORE autosport,ORECA FLM09,69,1:22:40.432,100 Laps,20,Not Running,64,49.915,106.3,03_Results.PDF,1
+2016,13_Lime Rock,Lime Rock,lime-rock,2016-07-23,201607231505_Race,31,9,100,GTLM,,J. Edwards / L. Luhr,BMW Team RLL,BMW M6 GTLM,4,4:30.351,165 Laps,65,Not Running,4,53.810,98.6,03_Results.PDF,1

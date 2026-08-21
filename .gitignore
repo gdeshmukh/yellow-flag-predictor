@@ -1,4 +1,6 @@
-data/
+data/**/pdfs/
+data/**/*.pdf
+data/**/*.PDF
 .venv/
 __pycache__/
 *.py[cod]

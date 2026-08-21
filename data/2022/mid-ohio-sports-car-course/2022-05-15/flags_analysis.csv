@@ -1,0 +1,7 @@
+year,event_code,event_name,track_slug,race_date,session_directory,sequence,flag,clock_time,session_elapsed,session_elapsed_ms,flag_time,flag_time_ms,cumulative_flag_time,cumulative_flag_time_ms,lap,source_report,source_page
+2022,08_Mid-Ohio Sports Car Course,Mid-Ohio Sports Car Course,mid-ohio-sports-car-course,2022-05-15,202205151410_Race,1,GREEN FLAG,14:09:39.026,-,,0.001,1,0.001,1,1,25_FlagsAnalysis_Race.PDF,1
+2022,08_Mid-Ohio Sports Car Course,Mid-Ohio Sports Car Course,mid-ohio-sports-car-course,2022-05-15,202205151410_Race,2,FULL COURSE YELLOW,14:09:39.027,0.001,1,58.293,58293,58.293,58293,1,25_FlagsAnalysis_Race.PDF,1
+2022,08_Mid-Ohio Sports Car Course,Mid-Ohio Sports Car Course,mid-ohio-sports-car-course,2022-05-15,202205151410_Race,3,GREEN FLAG,14:10:37.320,58.294,58294,1:13:40.400,4420400,1:13:40.401,4420401,1,25_FlagsAnalysis_Race.PDF,1
+2022,08_Mid-Ohio Sports Car Course,Mid-Ohio Sports Car Course,mid-ohio-sports-car-course,2022-05-15,202205151410_Race,4,FULL COURSE YELLOW,15:24:17.720,1:14:38.694,4478694,15:39.391,939391,16:37.684,997684,59,25_FlagsAnalysis_Race.PDF,1
+2022,08_Mid-Ohio Sports Car Course,Mid-Ohio Sports Car Course,mid-ohio-sports-car-course,2022-05-15,202205151410_Race,5,GREEN FLAG,15:39:57.111,1:30:18.085,5418085,1:10:02.022,4202022,2:23:42.423,8622423,65,25_FlagsAnalysis_Race.PDF,1
+2022,08_Mid-Ohio Sports Car Course,Mid-Ohio Sports Car Course,mid-ohio-sports-car-course,2022-05-15,202205151410_Race,6,CHEQUERED FLAG,16:49:59.134,2:40:20.107,9620107,-,,-,,121,25_FlagsAnalysis_Race.PDF,1

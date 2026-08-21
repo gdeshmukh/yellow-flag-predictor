@@ -1,0 +1,5 @@
+year,event_code,event_name,track_slug,race_date,session_directory,sequence,flag,clock_time,session_elapsed,session_elapsed_ms,flag_time,flag_time_ms,cumulative_flag_time,cumulative_flag_time_ms,lap,source_report,source_page
+2024,15_VIRginia International Raceway,VIRginia International Raceway,virginia-international-raceway,2024-08-25,202408251210_Race,1,GREEN FLAG,12:11:02.166,-,,2:05:31.041,7531041,2:05:31.041,7531041,1,25_FlagsAnalysis_Race.PDF,1
+2024,15_VIRginia International Raceway,VIRginia International Raceway,virginia-international-raceway,2024-08-25,202408251210_Race,2,FULL COURSE YELLOW,14:16:33.207,2:05:31.041,7531041,12:09.142,729142,12:09.142,729142,70,25_FlagsAnalysis_Race.PDF,1
+2024,15_VIRginia International Raceway,VIRginia International Raceway,virginia-international-raceway,2024-08-25,202408251210_Race,3,GREEN FLAG,14:28:42.349,2:17:40.183,8260183,23:08.928,1388928,2:28:39.969,8919969,73,25_FlagsAnalysis_Race.PDF,1
+2024,15_VIRginia International Raceway,VIRginia International Raceway,virginia-international-raceway,2024-08-25,202408251210_Race,4,CHEQUERED FLAG,14:51:51.278,2:40:49.111,9649111,-,,-,,86,25_FlagsAnalysis_Race.PDF,1

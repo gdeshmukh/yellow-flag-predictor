@@ -1,0 +1,3 @@
+year,event_code,event_name,track_slug,race_date,session_directory,sequence,flag,clock_time,session_elapsed,session_elapsed_ms,flag_time,flag_time_ms,cumulative_flag_time,cumulative_flag_time_ms,lap,source_report,source_page
+2025,10_Weathertech Raceway Laguna Seca,Weathertech Raceway Laguna Seca,weathertech-raceway-laguna-seca,2025-05-11,202505111210_Race,1,GREEN FLAG,12:10:37.425,-,,2:40:27.069,9627069,2:40:27.069,9627069,1,25_FlagsAnalysis_Race.PDF,1
+2025,10_Weathertech Raceway Laguna Seca,Weathertech Raceway Laguna Seca,weathertech-raceway-laguna-seca,2025-05-11,202505111210_Race,2,CHEQUERED FLAG,14:51:04.495,2:40:27.069,9627069,-,,-,,124,25_FlagsAnalysis_Race.PDF,1

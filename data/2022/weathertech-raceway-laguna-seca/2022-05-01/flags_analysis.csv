@@ -1,0 +1,5 @@
+year,event_code,event_name,track_slug,race_date,session_directory,sequence,flag,clock_time,session_elapsed,session_elapsed_ms,flag_time,flag_time_ms,cumulative_flag_time,cumulative_flag_time_ms,lap,source_report,source_page
+2022,07_Weathertech Raceway Laguna Seca,Weathertech Raceway Laguna Seca,weathertech-raceway-laguna-seca,2022-05-01,202205011210_Race,1,GREEN FLAG,12:07:10.014,-,,31:39.251,1899251,31:39.251,1899251,1,25_FlagsAnalysis_Race.PDF,1
+2022,07_Weathertech Raceway Laguna Seca,Weathertech Raceway Laguna Seca,weathertech-raceway-laguna-seca,2022-05-01,202205011210_Race,2,FULL COURSE YELLOW,12:38:49.265,31:39.251,1899251,17:58.180,1078180,17:58.180,1078180,25,25_FlagsAnalysis_Race.PDF,1
+2022,07_Weathertech Raceway Laguna Seca,Weathertech Raceway Laguna Seca,weathertech-raceway-laguna-seca,2022-05-01,202205011210_Race,3,GREEN FLAG,12:56:47.445,49:37.431,2977431,1:51:27.798,6687798,2:23:07.049,8587049,32,25_FlagsAnalysis_Race.PDF,1
+2022,07_Weathertech Raceway Laguna Seca,Weathertech Raceway Laguna Seca,weathertech-raceway-laguna-seca,2022-05-01,202205011210_Race,4,CHEQUERED FLAG,14:48:15.244,2:41:05.229,9665229,-,,-,,117,25_FlagsAnalysis_Race.PDF,1

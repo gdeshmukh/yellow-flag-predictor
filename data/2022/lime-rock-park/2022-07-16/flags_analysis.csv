@@ -1,0 +1,5 @@
+year,event_code,event_name,track_slug,race_date,session_directory,sequence,flag,clock_time,session_elapsed,session_elapsed_ms,flag_time,flag_time_ms,cumulative_flag_time,cumulative_flag_time_ms,lap,source_report,source_page
+2022,15_Lime Rock Park,Lime Rock Park,lime-rock-park,2022-07-16,202207161510_Race,1,GREEN FLAG,15:10:39.318,-,,2:18:48.010,8328010,2:18:48.010,8328010,1,25_FlagsAnalysis_Race.PDF,1
+2022,15_Lime Rock Park,Lime Rock Park,lime-rock-park,2022-07-16,202207161510_Race,2,FULL COURSE YELLOW,17:29:27.328,2:18:48.010,8328010,11:54.167,714167,11:54.167,714167,155,25_FlagsAnalysis_Race.PDF,1
+2022,15_Lime Rock Park,Lime Rock Park,lime-rock-park,2022-07-16,202207161510_Race,3,GREEN FLAG,17:41:21.495,2:30:42.177,9042177,10:00.956,600956,2:28:48.966,8928966,163,25_FlagsAnalysis_Race.PDF,1
+2022,15_Lime Rock Park,Lime Rock Park,lime-rock-park,2022-07-16,202207161510_Race,4,CHEQUERED FLAG,17:51:22.452,2:40:43.133,9643133,-,,-,,174,25_FlagsAnalysis_Race.PDF,1

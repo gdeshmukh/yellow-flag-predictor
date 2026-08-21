@@ -1,0 +1,7 @@
+year,event_code,event_name,track_slug,race_date,session_directory,sequence,flag,clock_time,session_elapsed,session_elapsed_ms,flag_time,flag_time_ms,cumulative_flag_time,cumulative_flag_time_ms,lap,source_report,source_page
+2023,17_Road America,Road America,road-america,2023-08-06,202308061010_Race,1,GREEN FLAG,10:10:45.507,-,,0.001,1,0.001,1,1,25_FlagsAnalysis_Race.PDF,1
+2023,17_Road America,Road America,road-america,2023-08-06,202308061010_Race,2,FULL COURSE YELLOW,10:10:45.508,0.001,1,3:58.074,238074,3:58.074,238074,1,25_FlagsAnalysis_Race.PDF,1
+2023,17_Road America,Road America,road-america,2023-08-06,202308061010_Race,3,GREEN FLAG,10:14:43.582,3:58.075,238075,5:01.355,301355,5:01.356,301356,1,25_FlagsAnalysis_Race.PDF,1
+2023,17_Road America,Road America,road-america,2023-08-06,202308061010_Race,4,FULL COURSE YELLOW,10:19:44.937,8:59.430,539430,12:57.558,777558,16:55.632,1015632,4,25_FlagsAnalysis_Race.PDF,1
+2023,17_Road America,Road America,road-america,2023-08-06,202308061010_Race,5,GREEN FLAG,10:32:42.495,21:56.988,1316988,2:19:26.764,8366764,2:24:28.120,8668120,7,25_FlagsAnalysis_Race.PDF,1
+2023,17_Road America,Road America,road-america,2023-08-06,202308061010_Race,6,CHEQUERED FLAG,12:52:09.260,2:41:23.752,9683752,-,,-,,80,25_FlagsAnalysis_Race.PDF,1

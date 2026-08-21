@@ -1,0 +1,13 @@
+year,event_code,event_name,track_slug,race_date,session_directory,sequence,flag,clock_time,session_elapsed,session_elapsed_ms,flag_time,flag_time_ms,cumulative_flag_time,cumulative_flag_time_ms,lap,source_report,source_page
+2024,19_Road Atlanta,Road Atlanta,road-atlanta,2024-10-12,202410121210_Race,1,GREEN FLAG,12:10:44.575,-,,19:54.304,1194304,19:54.304,1194304,1,25_FlagsAnalysis_Race.PDF,1
+2024,19_Road Atlanta,Road Atlanta,road-atlanta,2024-10-12,202410121210_Race,2,FULL COURSE YELLOW,12:30:38.879,19:54.304,1194304,13:12.105,792105,13:12.105,792105,17,25_FlagsAnalysis_Race.PDF,1
+2024,19_Road Atlanta,Road Atlanta,road-atlanta,2024-10-12,202410121210_Race,3,GREEN FLAG,12:43:50.984,33:06.409,1986409,34:36.971,2076971,54:31.275,3271275,22,25_FlagsAnalysis_Race.PDF,1
+2024,19_Road Atlanta,Road Atlanta,road-atlanta,2024-10-12,202410121210_Race,4,FULL COURSE YELLOW,13:18:27.955,1:07:43.380,4063380,15:31.276,931276,28:43.381,1723381,50,25_FlagsAnalysis_Race.PDF,1
+2024,19_Road Atlanta,Road Atlanta,road-atlanta,2024-10-12,202410121210_Race,5,GREEN FLAG,13:33:59.231,1:23:14.656,4994656,11:47.496,707496,1:06:18.771,3978771,56,25_FlagsAnalysis_Race.PDF,1
+2024,19_Road Atlanta,Road Atlanta,road-atlanta,2024-10-12,202410121210_Race,6,FULL COURSE YELLOW,13:45:46.727,1:35:02.152,5702152,8:26.147,506147,37:09.528,2229528,66,25_FlagsAnalysis_Race.PDF,1
+2024,19_Road Atlanta,Road Atlanta,road-atlanta,2024-10-12,202410121210_Race,7,GREEN FLAG,13:54:12.874,1:43:28.299,6208299,2:18:29.214,8309214,3:24:47.985,12287985,69,25_FlagsAnalysis_Race.PDF,1
+2024,19_Road Atlanta,Road Atlanta,road-atlanta,2024-10-12,202410121210_Race,8,FULL COURSE YELLOW,16:12:42.088,4:01:57.513,14517513,25:58.479,1558479,1:03:08.007,3788007,179,25_FlagsAnalysis_Race.PDF,1
+2024,19_Road Atlanta,Road Atlanta,road-atlanta,2024-10-12,202410121210_Race,9,GREEN FLAG,16:38:40.567,4:27:55.992,16075992,4:34:21.173,16461173,7:59:09.158,28749158,189,25_FlagsAnalysis_Race.PDF,1
+2024,19_Road Atlanta,Road Atlanta,road-atlanta,2024-10-12,202410121210_Race,10,FULL COURSE YELLOW,21:13:01.740,9:02:17.165,32537165,22:37.902,1357902,1:25:45.909,5145909,405,25_FlagsAnalysis_Race.PDF,1
+2024,19_Road Atlanta,Road Atlanta,road-atlanta,2024-10-12,202410121210_Race,11,GREEN FLAG,21:35:39.642,9:24:55.067,33895067,35:41.222,2141222,8:34:50.380,30890380,414,25_FlagsAnalysis_Race.PDF,1
+2024,19_Road Atlanta,Road Atlanta,road-atlanta,2024-10-12,202410121210_Race,12,CHEQUERED FLAG,22:11:20.865,10:00:36.289,36036289,-,,-,,443,25_FlagsAnalysis_Race.PDF,1
